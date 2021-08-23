@@ -1,7 +1,7 @@
-## Early Retirement Extreme: A Philosophical and Practical Guide
+## Early Retirement Extreme: A philosophical and practical guide to financial independence
 
 
 
-## 《极早退休：一个哲学和实践的指导》
+## 《极早退休：一个财务独立的哲学和实践的指导》
 
 
