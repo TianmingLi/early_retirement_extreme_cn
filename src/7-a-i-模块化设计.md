@@ -143,41 +143,94 @@ understand  what  this  means,  divide  the  projects  into  three  groups  (and
 everything in between)
 
 Projects that cost money 
+
+花钱的项目
+
 Projects  with  start-up  costs  and  regular  fixed  costs  (see  Depreciation
-schedules). You need to buy equipment and pay subscription fees or replace
+schedules). 
+
+项目有初创花费和固定支出（参考）。
+
+You need to buy equipment and pay subscription fees or replace
 equipment that wears out on a regular basis. Many sports fall under this
 category.
 
+你需要购买设备和付订阅费用或者在固定周期替换损耗的设备。很多在运动都可以落在这个条目下。
 
 Projects that are "free" 
+
+“免费的”项目
+
 Projects  with  few  start-up  costs,  no  fixed  costs,  and  no  cash  flow,  but
 possibly network connections of learning skills or providing some value.
-These projects are free. This can include using things you already have,
+These projects are free.
+
+项目需要极少的启动资金，没有固定支出，没有现金流，但是可能是学习新技能和提供其他简直的网络连接。这些项目是免费的。
+
+ This can include using things you already have,
 such as a computer and an Internet connection.
 
+这可以是使用你已经拥有的事物，例如计算机和网络连接。
 
 Projects that earn money 
-Projects that are saving you money or--even better--making you money; not
+
+赚钱的项目
+
+Projects that are saving you money or--even better--making you money; 
+
+帮你省钱的项目——或更好——帮你赚钱；
+
+not
 as in a hopeful future, but now. This could include learning how to cook,
 fixing  computers,  mowing  people's  lawns  (for  the  exercise),  babysitting,
 etc
 
+不只是在有希望的未来，而是现在。这包括了学习如何烹调，修电脑，帮人剪草坪（用于练习），看孩子等等。
+
 
 It's of primary importance that a project produces value, even if that value
 isn't money, and doesn't destroy value.
+
+最主要的是这些项目产生价值，尽管这些价值不是钱，也不损害它的价值。
+
 Money leaving your pocket is a big warning sign that your activities fall into
-the first category. These should be avoided as much as possible and replaced
+the first category.
+
+当你的钱从你的口袋里流走的时候就是一个警示信号，你的活动都掉进了第一个分类。
+
+ These should be avoided as much as possible and replaced
 with or modified into activities that are "free" but provide the opportunity to
-learn,  meet  new  people,  and  possibly  earn  money  eventually.  It's  often  quite
-possible to find a direct, yet free, replacement for a cash-negative activity. For
+learn,  meet  new  people,  and  possibly  earn  money  eventually.  
+
+这是需要尽可能避免的并且替换或者修改为“免费”的活动，但能提供学习的计划，遇到新的人，或者偶尔有赚钱的可能。
+
+It's  often  quite
+possible to find a direct, yet free, replacement for a cash-negative activity.
+
+找些直接免费的活动来代替负现金流的活动是非常可能的。
+
+ For
 instance, rather than going to the movies, you can borrow the DVD from the
 library or a friend about six months later if you just change your perspective.
-Don't get too ambitious about making money right away. Serendipity plays a
-larger role in the long term. For example, I replaced my fascination with buying
+
+例如，通过改变你的观点，你可以六个月以后从图书馆或者朋友那里借DVD，而不是去电影院。
+
+Don't get too ambitious about making money right away. 
+
+不用太急切的想立刻就赚钱。
+
+Serendipity plays a
+larger role in the long term. 
+
+
+For example, I replaced my fascination with buying
 computer  hardware  (expensive  money  sink)  with  learning  about  the  *nix
 operating system (free) and eventually ended up as the system administrator of
 the department I was working in simply because I was the one who knew the
-most when the previous admin left. Later I turned the knowledge of emacs and
+most when the previous admin left. 
+
+
+Later I turned the knowledge of emacs and
 LaTeX from writing scientific articles into a freelancing job as a copy editor,
 which  covered  all  my  expenses  working  approximately  30  minutes  a  day  on
 average.  Blogging  was  another  activity  that  started  as  a  constructive  way  of
