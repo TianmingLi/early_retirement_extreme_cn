@@ -100,6 +100,7 @@ meeting new people. A second-order positive effect of that is that this could
 allow for professional networking. A third-order positive effect is that this
 could lead to a job.
 
+【爱好】获得乐趣的零阶目标。一阶的负面影响是花钱。另一个一阶的负面影响是需要空间。空间需求有一个二阶影响是太花钱。一个一阶的正面影响可能是遇见新人。这个二阶的正面影响是能够专业化网络。一个三阶的正面影响是这能够带来工作。
 
 [Side  business]  The  zeroth-order  goal  is  to  learn  how  to  run  a  business.
 Startup  costs  are  a  first-order  negative  effect.  Income  is  a  first-order
@@ -108,6 +109,7 @@ business has a time cost which may be positive or negative. Regardless, a
 positive second-order effect of this is that this time is not spent spending
 money.
 
+【副业】零阶的目标是学习如何做生意。初创需要花钱是一阶的负面影响。收入是一阶的正面影响；对于很多人来说，收入可能是零阶的目标。做生意会花时间这可能是正面的或负面的。不管这个的话，正面的二阶影响是这个时间不是在花钱。
 
 [Job] The zeroth-order goal is to earn money. Developing a career is a first-
 order  positive  side  effect.  Being  stressed  or  unhealthy  is  a  first-order
