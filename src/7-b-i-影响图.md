@@ -113,44 +113,143 @@ money.
 
 [Job] The zeroth-order goal is to earn money. Developing a career is a first-
 order  positive  side  effect.  Being  stressed  or  unhealthy  is  a  first-order
-
 negative  side  effect,  as  is  the  cost  of  business  attire  and  keeping  up
 appearances. A second-order negative effect of this is spending money to
 make up for this, either by taking drugs or shopping.
+
+【工作】零阶的目标是赚钱。职业发展是一阶的正向影响。承受压力和不健康，以及商务打扮和外表提升的花费，是一阶的负向影响。二阶的负面影响是吃药和购物所花的钱。
+
 These are just examples. For instance, the zeroth-order goal of the job may
-be to develop a career rather than earning. In that case, put career as the zeroth-
+be to develop a career rather than earning. 
+
+这只是一个例子。实际可能是，工作的零阶目标是发展职业而不是赚钱。
+
+In that case, put career as the zeroth-
 order  goal  and  the  money  as  a  side  effect.  If  clothing  is  supplied,  this  is  a
 positive side effect rather than a negative side effect.
+
+在这种情况，把职业放在零阶目标那钱就是侧面影响。如果制服是提供的，这变成了正面影响而不是负面影响。
+
 Now, think of your own reverse fish bones in terms of how you spend most
 of  your  time  and  energy.  This  may  also  include  family,  education,  sports,
-religion,  retirement,  etc.,  and  things  you're  not  currently  doing  but  could  be
+religion,  retirement,  etc.
+
+现在，想想你自己如何花费你绝大多数时间和经历的反向鱼骨图。这可能包含了家庭，教育，运动，宗教，退休，等等。
+
+,  and  things  you're  not  currently  doing  but  could  be
 doing.
-Consider  the  sum  total  of  all  the  effects  of  your  actions.  Since  adopting
+
+还有一些你现在没有做但是可能做的事情。
+
+
+Consider  the  sum  total  of  all  the  effects  of  your  actions. 
+
+考虑到你所有行动的影响总和。
+
+ Since  adopting
 specific  actions  will  lead  to  specific  outcomes,  all effects can be considered
-goals, whether you actually want to achieve them or not. You may find some of
-these goals to be counterproductive. Some goals involve saving money, while
-others involve spending money. Some goals involve getting or being healthy,
-while other goals are unhealthy. Indeed, if you map out a typical lifestyle, you
-will probably find a lot of counterproductivity. When a strong positive goal is
-countered  by  smaller  negative  goals,  the  result  is  friction.  Friction  produces
-waste (see Breaking out). Waste is prevalent in modern life. Just consider how
-many people drive. First the foot goes on the accelerator, then ten seconds later it
-goes on the brake, turning kinetic energy into waste heat. Then it goes back on
-the accelerator again to make up for the loss of speed.44 This results in poor gas
+goals, whether you actually want to achieve them or not. 
+
+适配不同的活动会导致特定的蔬菜，所有的影响可以被认为是目标，不管你事实上有没有达到这个目标。
+
+You may find some of
+these goals to be counterproductive. 
+
+你可能会发现有些目标是反效率的。
+
+Some goals involve saving money, while
+others involve spending money. 
+
+有些目标涉及了省钱，同时有些涉及花钱。
+
+Some goals involve getting or being healthy,
+while other goals are unhealthy. 
+
+有些目标涉及了更加健康，同时有些目标让身体不健康。
+
+Indeed, if you map out a typical lifestyle, you
+will probably find a lot of counterproductivity.
+
+事实上，如果你画出了一个典型生活的图，你可能会发现一堆反效率的目标。
+
+ When a strong positive goal is
+countered  by  smaller  negative  goals,  the  result  is  friction.  
+
+当强的正向目标遭遇弱的负向目标时，结果时摩擦。
+
+Friction  produces
+waste (see Breaking out). 
+
+摩擦产生浪费（参见逃离）。
+
+Waste is prevalent in modern life. 
+
+浪费在现代生活是普遍现象。
+
+Just consider how
+many people drive.
+
+想想多少人开车。
+
+ First the foot goes on the accelerator, then ten seconds later it
+goes on the brake, turning kinetic energy into waste heat.
+
+开始踩油门，十秒后踩刹车，把动能转换成了废热。
+
+ Then it goes back on
+the accelerator again to make up for the loss of speed.44 
+
+然后又因为速度降低了再次加速。
+
+This results in poor gas
 mileage,  as  gas  is  used  to  heat  up  the  brake  pads,  and  equivalently  poor  life
-mileage when the same habits are used in everyday life. The same vehicle gets
-different gas mileages depending on the driver. Similarly, money gets different
-mileage depending on who is spending it. Conversely, if one positive goal is
+mileage when the same habits are used in everyday life. 
+
+结果就是高油耗，汽油被用来加热刹车片，并且设备也因为日常的工作习惯降低了寿命。
+
+The same vehicle gets
+different gas mileages depending on the driver.
+
+相同汽车的不同油耗取决于司机。
+
+ Similarly, money gets different
+mileage depending on who is spending it. 
+
+同理，相同的钱运行不同的距离取决于谁使用它。
+
+Conversely, if one positive goal is
 positively  aligned  with  another  positive  goal,  both  goals  benefit--the  vectors
-point in the same direction in goal-space. To achieve such synergy, count up
-actions and list the effects. Effects may be positive or negative. Without synergy,
+point in the same direction in goal-space. 
+
+相反的，如果一个人的正向目标和其他目标正向对齐，那么两个目标都会受益——向量在目标空间里指向了相同的方向。
+
+To achieve such synergy, count up
+actions and list the effects. 
+
+未来达到这种协调，记下行动，列出影响。
+
+Effects may be positive or negative. Without synergy,
 negative  effects  will  often  cancel  out  positive  effects  or  effects  will  be  very
-scattered.  Synergy  concentrates  the  effects  or  goals.  If  you  don't  see  a
+scattered. 
+
+影响可能是正向或负向的。没有协调，负向影响会经常消耗掉正向影响或者影响会变得非常分散。
+
+ Synergy  concentrates  the  effects  or  goals. 
+ 
+ 协调集中影响或目标。
+ 
+  If  you  don't  see  a
 concentration of goals, you must change some of your behaviors and perhaps
-adopt new ones. For example, one of the things I had to do when starting on the
+adopt new ones. 
+
+如果你不能看到一个集中的目标，你必须对你的行为做出一些改变并且可能要指定一个新的目标。
+
+For example, one of the things I had to do when starting on the
 path  to  early  retirement  was  to  replace  my  money-wasting  and  generally
 unproductive hobbies with hobbies there were free (see A modular design) and
 meaningful  a)  to  not  cause  friction  with  my  money  saving,  b)  to  provide
 meaning  that  was  unrelated  to  work,  and  c)  to  learn  new  skills  applicable  to
 work (programming and writing).
 
+例如，一件事是，当我开及早退休之路的时候，我开始把我无效的耗钱的爱好转换成免费的（参加模块化设计）和有意义的，
+a) 让其不和我存钱的目标摩擦，b)提供一些和工作不相关的一样，c) 学习一些能够用到工作上的新技能（编程和写作）。
