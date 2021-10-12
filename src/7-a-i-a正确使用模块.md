@@ -49,7 +49,7 @@ that almost any work becomes drudgery if you have to do it all day every day,
 whereas scrubbing toilets or filing forms might not be too bad if you only have
 to do it 15 minutes a week.
 
-考录到大多数的你不得不做的工作都变成了苦工，然而每周花15分钟用来刷马桶或者填表格可能不太坏。
+考虑到大多数的你不得不做的工作都变成了苦工，然而每周花15分钟用来刷马桶或者填表格可能不太坏。
 
 Ultimately  all  modules  should  produce  value  in  some  form:  better  health,
 new/better  connections  or  skills. 
