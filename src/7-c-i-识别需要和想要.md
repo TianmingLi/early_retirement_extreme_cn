@@ -26,39 +26,94 @@ and wants.
 
 The problem is that needs and wants don't fit on two different lists.
 
-
+问题是想要和需要不适合两个不同的列表。
 
 They fit on one list where they're ranked according to value rather than price (see
 Economical).
 
-
+它们适合一个根据价值而不是价格排列的列表（参见经济）。
 
  Needs and wants are different in degree, not in kind.
 
-Consider, for example, shelter. Here the list of choices may look like this:
-1.  Sleeping under open air.
-2.  Sleeping under a tarp, basha, or hootchie.
-3.  Living in a tent.
-4.  Couch surfing.
-5.  Living in a shack or a cabin.
-6.  Living in a ship cabin or truck cab.
-7.  Living in a car or a boat.
-8.  Living in an RV.
-9.  Sharing a room with other people.
-10.  Having your own room.
-11.  Sharing an apartment with other people.
-12.  Having your own apartment.
-13.  Sharing a house with other people.
-14.  ...
+想要和需要是程度上的不同，而不是类别上的不同。
 
-On this scale there is no demarcation of when a need becomes a want. Each
+Consider, for example, shelter. Here the list of choices may look like this:
+
+考虑一下，例如，庇护所。可选的列表看起来像这样：
+
+1.  Sleeping under open air.
+
+1. 谁在露天下。
+
+2.  Sleeping under a tarp, basha, or hootchie.
+
+2. 睡在防水布下，basha帐下（A形天幕，四角固定到地面），或者hootchie帐下（A形天幕，四角悬空固定）。
+
+3.  Living in a tent.
+
+3. 生活在帐篷里。
+
+4.  Couch surfing.
+
+4. 沙发客。
+
+5.  Living in a shack or a cabin.
+
+5. 生活在棚子里或者小木屋里。
+
+6.  Living in a ship cabin or truck cab.
+
+6. 生活在船舱或者卡车驾驶室里。
+
+7.  Living in a car or a boat.
+
+7. 生活在车里或者船里。
+
+8.  Living in an RV.
+
+8. 生活在野营车里
+
+9.  Sharing a room with other people.
+9. 和其他人共享房间。
+10.  Having your own room.
+10. 有你自己的房间。
+11.  Sharing an apartment with other people.
+11. 和其他人共享公寓。
+12.  Having your own apartment.
+12. 拥有你自己的公寓。
+13.  Sharing a house with other people.
+13. 和他人共享房子。
+14.  ...
+14. ……
+
+
+On this scale there is no demarcation of when a need becomes a want. 
+
+在这种尺度上没有什么时候需要变成想要的界限。
+
+Each
 step is slightly different and slightly more expensive than the previous step, with
 no clear indication of what the bare minimum is, other than having somewhere
-to sleep. At what point, then, does a want become a need?
+to sleep. 
+
+每一阶和上一阶不一样也更贵，但是对于在某个地方睡觉来说，没有清晰的指示说什么是最简的。
+
+At what point, then, does a want become a need?
+
+在哪个点上，使想要变成了需要？
+
 It could be argued that sleeping under open air in Alaska or Finland will kill
-you, and that some form of shelter is therefore a need. However, it's possible for
+you, and that some form of shelter is therefore a need. 
+
+这可能会引发争论说在阿拉斯加或者芬兰露天睡觉会冻死人，那一些形式的避难所就变成了需要了。
+
+However, it's possible for
 people living in Finland or Alaska to move south so shelter isn't an absolute
-need. Rather, it's shelter in Finland or Alaska that is an absolute need--insofar
+need. 
+
+然而，生活在芬兰或阿拉斯加的人可以搬到南方去，所以庇护所也不是绝对需要的。
+
+Rather, it's shelter in Finland or Alaska that is an absolute need--insofar
 that staying alive is a need, but nobody needs to live in Finland or Alaska, even
 though I'm sure those are nice places.45
 Even though the rankings on this list probably match the rankings of most
