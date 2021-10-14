@@ -114,41 +114,126 @@ need.
 然而，生活在芬兰或阿拉斯加的人可以搬到南方去，所以庇护所也不是绝对需要的。
 
 Rather, it's shelter in Finland or Alaska that is an absolute need--insofar
-that staying alive is a need, but nobody needs to live in Finland or Alaska, even
+that staying alive is a need, 
+
+相反，在芬兰或阿拉斯加庇护所是决定需要的——目前为止活下去是需要的，
+
+but nobody needs to live in Finland or Alaska, even
 though I'm sure those are nice places.45
+
+但是没人需要生活在芬兰或阿拉斯加，即使我确定那两个地方都很不错。
+
 Even though the rankings on this list probably match the rankings of most
-people, it's by no means universal. Having experienced the freedom of living in
+people, it's by no means universal. 
+
+尽管这个列表可能匹配大多数人的排列，但这不意味着放之四海而皆准。
+
+Having experienced the freedom of living in
 an RV or a boat for a while, some people would never dream of substituting this
 for a 4,000square-foot McMansion with its endless cleaning and maintenance
-issues, and the need for walkie-talkies to find lost family members. The list is
+issues, and the need for walkie-talkies to find lost family members. 
+
+有一点生活在露营车或者船上的经历后，一些人再也不会梦想着拥有一个4000尺的豪宅，这豪宅需要无尽的清洁和维护，需要来回来去地寻找失散的家人。
+
+The list is
 individual,  because  any  choice  has  consequences  in  other  domains  (see
 Contingency goal-setting).
+
+这个列表是独立，因为任何选择都有其他领域的后果（参见持续性的目标设定）。
+
 For each individual, there are similar lists for eating, clothing, transportation,
-health, time, tools, toys, activities, status, etc., each ranging from essentially zero
-cost to more than one can imagine. These can also be classified into tangibles
+health, time, tools, toys, activities, status, etc.
+
+对于每个独立事项，列出吃、穿、健康、时间、工具、玩家、活动、状态等等列表都是相同的。
+
+, each ranging from essentially zero
+cost to more than one can imagine.
+
+每个都可以从必要但零花费到一个人难以想象。
+
+ These can also be classified into tangibles
 like  air,  water,  food,  sanitary,  shelter,  communication,  transport,  health,  and
 security,  and  intangibles,  like  time,  relationships,  affiliation,  power,  and
 
-achievement. Some of these, like security and sanitation, we take for granted
-living in the developed world. For others, except perhaps air and clean water,
-there's a large range of possible "consumption" levels. For instance, the eating
+achievement. 
+
+这也能被分类成可感知的像空气、水、食物、医疗、庇护所、通信、交通、健康和安全，不可感知的，像时间、关系、智力、权力和成就。
+
+Some of these, like security and sanitation, we take for granted
+living in the developed world.
+
+其中一些，像安全和医疗，我们因为生活在发达国家而获得大量好处。
+
+ For others, except perhaps air and clean water,
+there's a large range of possible "consumption" levels. 
+
+对于其他，除了空气和清洁水一维，它们有巨大的“消费”等级排位。
+
+For instance, the eating
 list ranges from roadkill and dumpster diving, to industrially processed "food,"
-to gourmet meals and fine dining. Clothing ranges from going naked to owning
+to gourmet meals and fine dining. 
+
+举例来说，列表可以从路边杀手和垃圾食品，到工业加工食品，到精美丰盛的一餐。
+
+Clothing ranges from going naked to owning
 just one set of clothes, to owning massive wardrobes full of shoes and tailor-
-made suits. Transportation ranges from walking barefoot to driving a "hooptie,"
-to private airplanes and megayachts. Health ranges from being strong (physically
+made suits. 
+
+衣服可以从裸体，到只有一套衣服，到拥有巨大的一柜子的衣服鞋子和手工打造的套装。
+
+Transportation ranges from walking barefoot to driving a "hooptie,"
+to private airplanes and megayachts.
+
+交通可以从赤足赶路到驾驶一辆“破车”，到私人飞机和豪华游艇。
+
+ Health ranges from being strong (physically
 and mentally), to being on prescription medicines, to being entirely dependent
-on advanced medical infrastructure. Time ranges from being a galley slave, to
+on advanced medical infrastructure. 
+
+健康可以从变强（身体上和心理上），到轻微的医疗辅助，到完全依赖先进的医疗设施。
+
+Time ranges from being a galley slave, to
 working 8-10-hour days in a tolerable job, to doing what you want, which may
 or may not include what is otherwise classified as work.
-Completing these lists is left as an exercise for the reader. In fact, such an
-exercise is highly recommended. Try to make it as wide-ranging as possible and
-as complete as possible. It may range wider and include more dimensions than
+
+时间可以从完全被奴役，到每天工作8-10个小时的能忍受的工作，到做你想做的，这可能或不能被分类成工作。
+
+Completing these lists is left as an exercise for the reader. 
+
+完成这些列表就交给读者练习了。
+
+In fact, such an
+exercise is highly recommended.
+
+事实上，如此的练习是高度推荐的。
+
+ Try to make it as wide-ranging as possible and
+as complete as possible. 
+
+尝试把它做得越宽越好，越完整越好。
+
+It may range wider and include more dimensions than
 suggested above.
+
+它可能会宽到包含比上面建议的多的领域。
+
 Each level on each list has a price and a value which is individually unique.
+
+每个列表的每个层级都有独立唯一的价格和价值。
+
 The ultimate goal is maximizing total value while minimizing the total price.
+
+终极的目标是最大化总价值和最小化总价格。
+
 While the locked-in lifestyle described in The lock-in provides a default choice
-of  levels,  it's  possible  to  choose  one's  levels  very  differently.  For  instance,
+of  levels,  it's  possible  to  choose  one's  levels  very  differently.  
+
+在锁住一节里描述的锁住的生活方式里只提供了一个默认的选择层级，这可能让一个人的选择截然不同。
+
+For  instance,
 instead of choosing a career in a cubicle, a five-bedroom/three-bathroom home
 on  a  30-year  mortgage,  and  a  new  TV  on  credit,  one  may  choose  financial
 independence and early retirement.
+
+举例来讲，除了选择一个小隔间的职业，一个五个卧室三个浴室的房子和30年的贷款，一个信用卡买的新电视，一个人可能选择财务独立和尽早退休。
+
