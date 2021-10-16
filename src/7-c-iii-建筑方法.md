@@ -188,30 +188,91 @@ common hammer is in the shape of a credit card.
 a particular method, the more difficult the solution, if and only if the focus is on
 the wrong method (and it can't be correct all the time, if you only have one). 
 
-
+越近视地聚焦于特别的方法，解决方案越困难，这其实是聚焦在错误的方法上（如果你只有一个方法，它不可能一直正确）。
 
 For
 example, when tackling an obstacle like a heavy weight, don't remain confined
-to seeking out ways to make the weight lighter. A different solution is to become
-stronger. Changing the focus is similar to changing the problem, except in the
-latter case the idea is to collect many similar methods; when changing the focus,
+to seeking out ways to make the weight lighter.
+
+例如，当处理一个像很重的障碍物，不要局限于找出让重量轻一点的方法。
+
+ A different solution is to become
+stronger.
+
+困难的方法是变强壮。
+
+ Changing the focus is similar to changing the problem, except in the
+latter case the idea is to collect many similar methods; 
+
+改变聚焦点和改变问题是相同的，除了后面的情况，想法都是收集很多相同的方法；
+
+when changing the focus,
 the idea is to know many different methods.
+
+当改变了聚焦点，想法是了解很多不同的方法。
+
 Most wants are internal, so focusing internally and "doing without" is often a
 less  complicated  way  to  solve  a  problem  as  it  mainly  requires  strength  of
-character rather than skills or connections. Rendering wants superfluous requires
-little technical skill, but it does require motivation and self-discipline. Giving up
+character rather than skills or connections. 
+
+很多欲望都是内部的，所以聚焦内部和“没有条件”是简单解决问题的方法，因为它主要要求的是性格而不是技巧和联系。
+
+Rendering wants superfluous requires
+little technical skill, but it does require motivation and self-discipline. 
+
+呈现欲望多余的要求一点技术技能，但是它要求动机和自律。
+
+Giving up
 wants can be as tough or easy as going on a diet, giving up smoking, or changing
-other habits dependent on strength of character. However, doing without is often
+other habits dependent on strength of character. 
+
+放弃欲望能很难也可以很简单，就像节食，戒烟，或者改变习惯，这依赖于坚强的性格。
+
+However, doing without is often
 thought of as a sacrifice, especially when strongly attached to material comforts.
+
+然而，“没有条件”经常被认为是牺牲，当它被和精神满足联系时尤其强烈。
+
 It's  quickly  realized  (after  about  a  month)  that  happiness  does  not  stem  from
 being surrounded by possessions, but that being surrounded by them is the result
-of  an  addictive  habit.  Thus,  it  can  be  tremendously  liberating  not  to  "need"
+of  an  addictive  habit.  
+
+这让人快速认识到（过了大约一个月）幸福不是被物质包围刺激产生的，而是被它们包围是一种上瘾的习惯。
+
+Thus,  it  can  be  tremendously  liberating  not  to  "need"
 something to be happy.
+
+也是就，不“需要”什么东西就能幸福，幸福就能够被戏剧性地解放。
+
 Since humans need very little, eliminating various wants can go far in terms
-of solving problems. Can't afford it? Don't want it! Too complicated? Don't want
-it! Reduce and simplify. Reduce and simplify! An entire aesthetic can and has
+of solving problems. 
+
+排除掉目前为止多种的欲望，人类只需要很少一点东西就能解决问题。
+
+Can't afford it?
+
+无法承担它？
+
+ Don't want it! 
+ 
+ 不想要它！
+ 
+ Too complicated? Don't want
+it! 
+
+太过复杂？不想要它！
+
+Reduce and simplify. Reduce and simplify!
+
+简化。简化！
+
+ An entire aesthetic can and has
 been formed around this principle, and so the pleasure from following this path
-can be as strong as the (previous) pleasure of accumulation. However, as there's
+can be as strong as the (previous) pleasure of accumulation. 
+
+整个的审美可以围绕着这个原则形成，跟随这个路径满足会是非常强烈的满足积累。
+
+However, as there's
 a  point  of  diminishing  returns  to  the  pleasure  of  accumulation,  there's  also  a
 point of diminishing returns to the pleasure of giving things up. The optimal
 point is somewhere in the middle. It should therefore be kept in mind that while
