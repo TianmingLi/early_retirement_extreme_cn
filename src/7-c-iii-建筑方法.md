@@ -117,30 +117,80 @@ Next, consider whether the something has multiple uses.
 Does it serve more
 than one purpose or can it serve alternate purposes? In particular, can it serve as
 one thing first and end up serving as another thing? A wooden spoon turns into
-firewood at the end of its serviceable life, for example. Obviously, raw materials
+firewood at the end of its serviceable life, for example. 
+
+它能用于一个用途还是他能用于其他用途？特别的，它能先用于一种用途退役时用作其他东西？例如，一个木头勺子在它寿终正寝时可以做烧火柴。
+
+Obviously, raw materials
 are closer to being able to serve multiple purposes, but even completed products
 can have multiple uses.
+
+很明显，原始材料最接近多用途目的，但有一些完整的产品也能用于多用途。
+
 For example, a computer can act as a media center, whereas a media center
-(TV+stereo+cable box) can't act as a computer. This isn't strictly a technology
-issue. Can any given shirt in your wardrobe be combined with any given pair of
-pants  and  look  good?  In  the  kitchen,  the  chef's  knife  is  probably  the  most
+(TV+stereo+cable box) can't act as a computer.
+
+例如，电脑能作为媒体中心使用，而媒体中心（电视 + 音响 + 线缆盒子）不能当作电脑使用。
+
+ This isn't strictly a technology
+issue.
+
+这不是一个严格的技术问题。
+
+ Can any given shirt in your wardrobe be combined with any given pair of
+pants  and  look  good? 
+
+你衣柜里的任何衬衫能和任何裤子搭配起来好看吗？
+
+ In  the  kitchen,  the  chef's  knife  is  probably  the  most
 versatile, after the spoon and the pot--unless you're a vegetarian, in which case a
 serrated  utility  knife  is  better,  as  it  doesn't  require  sharpening,  nor  a  cutting
-board.  What  are  the  optimal  ways  of  putting  solutions  together  to  find  the
-maximum range of use?
-Turn  the  problem  on  its  head  by  changing  it.  Instead  of  looking  for
-ingredients (blocks) for recipes (instructions), look for recipes for ingredients.
-This is strongly facilitated by carrying many recipes--that is, ways to accomplish
-something--in your head. This way, the complexity is internalized and becomes a
+board. 
 
-design  problem  rather  than  being  externalized  as  a  logistical  problem.  For
+厨房里，厨刀可能时用途最广泛的了，之后是勺子和锅，除非你是素食主义者，那样的话锯齿刀更好，不锯木板的话，它都不需要磨。
+
+ What  are  the  optimal  ways  of  putting  solutions  together  to  find  the
+maximum range of use?
+Turn  the  problem  on  its  head  by  changing  it.  
+
+什么是找到最大程度使用的最优化的方法？
+
+Instead  of  looking  for
+ingredients (blocks) for recipes (instructions), look for recipes for ingredients.
+
+和找到食谱（建筑）的佐料（模块）相比，找到佐料的食谱。
+
+
+This is strongly facilitated by carrying many recipes--that is, ways to accomplish
+something--in your head.
+
+携带大量的食谱会是很强的帮助，那就是，你头脑里有完成一些事情的方法。
+
+ This way, the complexity is internalized and becomes a
+
+design  problem  rather  than  being  externalized  as  a  logistical  problem. 
+
+这在方法下，复杂是内在的设计问题，而不是外在的逻辑问题。
+
+ For
 instance, when shopping for groceries, knowing many recipes by heart allows
 one to tailor what's for dinner to whichever loss leaders are on sale, rather than
 venturing out with a shopping list and having to buy single missing ingredients.
+
+例如，当买杂货时，心里知道很多食谱的话，一个人就会购买打折的商品做晚餐，而不是列出一个购物清单，对照着买每样东西。
+
 If  you  only  have  a  hammer,  the  whole  world  becomes  a  nail--the  most
-common hammer is in the shape of a credit card. The more myopic the focus on
+common hammer is in the shape of a credit card.
+
+如果你只有一把锤子，整个世界都会变成钉子，最常见的锤子是信用卡。
+
+ The more myopic the focus on
 a particular method, the more difficult the solution, if and only if the focus is on
-the wrong method (and it can't be correct all the time, if you only have one). For
+the wrong method (and it can't be correct all the time, if you only have one). 
+
+
+
+For
 example, when tackling an obstacle like a heavy weight, don't remain confined
 to seeking out ways to make the weight lighter. A different solution is to become
 stronger. Changing the focus is similar to changing the problem, except in the
