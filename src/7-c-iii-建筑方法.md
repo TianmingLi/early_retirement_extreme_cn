@@ -437,70 +437,189 @@ salary  as  a  toll  booth  operator.
 
 value. 
 
+也不取决于某种内在的价值。
 
  If it was, school teachers would be paid more than professional athletes
 and bankers. 
 
+如果是这样，学校的老师会比职业运动员和银行家工资更高。
 
 It's strictly determined by how much the seller can get.
 
+它只取决于销售人员能获得多少。
 
  This took
 the  economics  profession  hundreds  of  years  to  figure  out.  
 
-
+弄明白这个原理花费了经济学专业人士花了数百年时间。
 
 Since  there  are
 different sellers with different levels of knowledge about their customers, prices
 vary.
+
+因为不同的销售对他们顾客知识层次是不同的，价格也就出现了变化。
+
 When  buying  parts,  tools,  as  well  as  new  things,  always  try  to  get  three
 different prices across markets (new and used) and time (do prices tend to go up
-or down? are they seasonal?) to get an idea of the effective price. Memorize the
+or down? are they seasonal?) to get an idea of the effective price. 
+
+当购买组件，工具的时候，买新东西的时候也一样，总是尝试货比三家（新的和二手的）和价格走势（价格走高还是走低？价格是不是有季节性？），来得到有效价格的新想法。
+
+Memorize the
 prices for anything you buy regularly--parts for food, also known as ingredients,
-come to mind. If memory is failing, keep a price diary. Only issue "limit orders"-
--that is, don't buy until the price falls below some predetermined level. Patience
-is rewarded more often than not. Let current purchases determine what problem
+come to mind. 
+
+记住你经常购买的东西的价格。
+
+If memory is failing, keep a price diary.
+
+如果记不住，计到笔记本上。
+
+ Only issue "limit orders"-
+-that is, don't buy until the price falls below some predetermined level.
+
+唯一的问题就是“限制买单”，也就是，如果价格没掉到预期的水平下就不买。
+
+ Patience
+is rewarded more often than not. 
+
+耐心通常会获得回报。
+
+Let current purchases determine what problem
 you're currently solving rather than the other way around; adapt your plans to
 what is on sale.
+
+让当前的购物决定你当前正在解决的问题而不是其他方法；适配你的计划到什么正在卖。
+
+
 Given  the  price,  consider  whether  it's  worthwhile  to  buy  the  part  or
-manufacture  it  yourself.  This  comes  down  to  valuing  your  time  earning  or
-otherwise making money versus your time fixing the problem directly. When
-buying  products,  you're  paying  for  time,  materials,  and  knowledge.  You
+manufacture  it  yourself.  
+
+对于给定价格，考虑它是值得购买还是自己制作。
+
+This  comes  down  to  valuing  your  time  earning  or
+otherwise making money versus your time fixing the problem directly. 
+
+这就变成了你的时间更值钱还是花时间解决问题更值钱。
+
+When
+buying  products,  you're  paying  for  time,  materials,  and  knowledge.  
+
+当你购买产品的时候，你花费了时间，材料和知识。
+
+You
 probably  have  plenty  of  time  (you  read  this  far),  materials  (especially  when
 bought in bulk) are shockingly inexpensive, and often the knowledge required to
-do a job is overestimated. This means that most people do not properly value
+do a job is overestimated. 
+
+你可能有大量的时间（你都读到这里了），材料（特别是批量购买）都是惊人的便宜，而且完成工作的知识经常被过高估计。
+
+This means that most people do not properly value
 their  own  knowledge,  having  been  convinced  that  an  expert  must  always  be
-consulted. However, if you can add and subtract, you can do your own taxes; if
+consulted. 
+
+这意味着大多数人没有自我知识的正确评估，认为需要向专家请教。
+
+However, if you can add and subtract, you can do your own taxes; if
 you can keep an appointment, you can garden; and, if you can peel a potato and
-tell time, you can cook. These days there are plenty of tutorials online and in
-books that will teach you how. With just a little experience, the only thing that
+tell time, you can cook. 
+
+然而，如果你能做加减法，你就能给自己报税；如果你能守约，你就能做园艺；如果你能削番茄和计时，你就能做饭。
+
+These days there are plenty of tutorials online and in
+books that will teach you how.
+
+如今网上有大量的教程教你怎么做。
+
+ With just a little experience, the only thing that
 will separate your work from that of a professional is that the professional can do
 it five times faster than you can do it--the first time.
-This means that anything done more than once is worth doing yourself. To
+
+只需要一点点的经验，把你和专家区分开的只是，专家做到比你第一次做快5倍。
+
+This means that anything done more than once is worth doing yourself. 
+
+这就意味着，任何不止做一次的事情都值得自己尝试。
+
+To
 wit, I can cook my favorite food better than a restaurant because I have cooked
 this dish more than 100 times, while a professional chef may only make it once
-in a while. I can do it cheaper as well, since I work for myself for free. If I have
+in a while.
+
+也就是，我最爱吃的食物，我能比餐馆的厨师做的好，因为这道菜我做了不下100遍了，与此同时厨师长只偶尔做一次。
+
+ I can do it cheaper as well, since I work for myself for free.
+ 
+ 我做出来的也便宜，因为我给我自己工作是免费的。
+ 
+  If I have
 a  problem  with  the  plumbing  or  a  binding  door,  I  can  get  immediate  service
-because I can fix the problem myself. If the problem reappears, I know what the
+because I can fix the problem myself.
+
+但是如果我的管道或者门的固定出了问题，我立马获得服务，因为我可以自己修理。
+
+ If the problem reappears, I know what the
 problem is and I can fix it much faster than calling a plumber or a carpenter.
-Once you can make things, you can also provide value to others. The greater the
+
+如果问题重现，我知道问题是什么，并且我能比找管道工和木工更快修好。
+
+Once you can make things, you can also provide value to others. 
+
+一旦你可以制作东西，你就也能给其他人提供价值。
+
+The greater the
 variety in the things you make, the greater the likelihood that you can contribute
 your skills.
-Bodging is probably the first step in making things. Not to be confused with
+
+你制作的东西越多样，你就越有可能提高你的技能。
+
+Bodging is probably the first step in making things. 
+
+简单修补可能是制作东西的第一步。
+
+Not to be confused with
 
 the art of botching, which is the art of screwing things up, bodging is the art of
-improvising a working solution using whatever is on-hand. Duct tape comes to
-mind. A few people seem to possess this as a natural ability, but for the average
-man, bodging has been suppressed by a sea of experts and professionals. The
+improvising a working solution using whatever is on-hand. 
+
+拼凑的艺术是把物品固定到一起，修补的艺术是用手头的东西改善解决方案。
+
+Duct tape comes to
+mind. 
+
+胶带出现在了脑海。
+
+A few people seem to possess this as a natural ability, but for the average
+man, bodging has been suppressed by a sea of experts and professionals.
+
+一少部分人可能自然地掌握这种能力，但平常人，修补被专业人士海洋的淹没。
+
+ The
 general  consensus  is  that  now  you  better  get  an  expert  opinion  before  you
 engage in almost anything; better yet, just pay the expert and let him do it for
-you.  Once  this  mental  constraint  has  been  removed,  it  becomes  possible  to
+you. 
+
+通用的共识是你在自己处理前最好获得专家的意见；最好，直接付钱给专家让他替你做。
+
+ Once  this  mental  constraint  has  been  removed,  it  becomes  possible  to
 bodge.
+
+一旦这种思维定式被移除，修补就变得可能了。
+
+
 For example, did you know you can remove rust by scrubbing it with a pad
 of aluminum foil? I found out on the Internet. Make a pad out of the foil, put
-some  light  oil  on  it  and  scrub  away.  Once  you  understand  why  this  works
+some  light  oil  on  it  and  scrub  away.  
+
+例如，你知道用铝箔能擦除锈迹吗？我从网上找到这个。制作一个铝箔盘，放一点油就可以把锈擦掉。
+
+Once  you  understand  why  this  works
 (aluminum foil is harder than rust but softer than the good metal and even most
-paint jobs), you realize that the oil is just there to provide lubrication. You could
+paint jobs), you realize that the oil is just there to provide lubrication. 
+
+一旦你理解了问什么这能行（铝箔比锈硬比材料软，甚至比喷漆都软），你就明白了油是提供润滑作用的。
+
+You could
 use anything, including spit.
 For  more  advanced  rust  removal  you  can  use  electrolysis.  While  many
 hobbyists and mechanics use this method routinely, most have only seen this in
