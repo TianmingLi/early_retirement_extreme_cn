@@ -270,63 +270,187 @@ Reduce and simplify. Reduce and simplify!
 been formed around this principle, and so the pleasure from following this path
 can be as strong as the (previous) pleasure of accumulation. 
 
-整个的审美可以围绕着这个原则形成，跟随这个路径满足会是非常强烈的满足积累。
+整个的审美可以围绕着这个原则形成，跟随这个路径的满足会是非常强烈的满足积累。
 
 However, as there's
 a  point  of  diminishing  returns  to  the  pleasure  of  accumulation,  there's  also  a
-point of diminishing returns to the pleasure of giving things up. The optimal
-point is somewhere in the middle. It should therefore be kept in mind that while
+point of diminishing returns to the pleasure of giving things up. 
+
+然而，这有一个削减回馈满足积累的点，也有削弱放弃事物满足回馈的点。
+
+The optimal
+point is somewhere in the middle.
+
+最有的点是在中间的某个地方。
+
+ It should therefore be kept in mind that while
 eliminating problems  can be  a  very good  tool, some  will  be very  tempted  to
 make it their only tool, in which case it becomes a hammer for which the whole
 world becomes a nail.
+
+需要铭记于心的是，消灭问题能是一个非常好的工具，一些人会把它当作唯一的工具，在这在情况下，它就变成了锤子，整个世界变成了钉子。
+
 Once  you've  developed  a  greater  freedom  to  choose  by  changing  some
 "needs" into "wants," you can tailor your wants to areas that are supplied freely
-or  at  least  inexpensively.  Much  free  or  almost  free  stuff  comes  from  the
+or  at  least  inexpensively. 
+
+一旦你开发出了一个更大的选择自由度，把“需要”转变成“想要”，你就可以把你的想要修补成免费的供应或至少是不昂贵的。
+
+ Much  free  or  almost  free  stuff  comes  from  the
 tremendous  amount  of  waste  generated  by  a  culture  where  things  are  being
 
 bought, used once, and then put away in attics, garages, extra bedrooms, and
-ultimately the landfill. Methods for getting things for free are social in nature,
+ultimately the landfill. 
+
+如此多免费或近似免费的东西来自大量的浪费，这由我们的现代文化产生，东西被买来，用一次，然后把它们丢弃到阁楼，车库，额外的卧室，最终，扔到垃圾场。
+
+Methods for getting things for free are social in nature,
 relying  on  connections  to  others  (these  days  often  on  the  Internet  with  like-
 minded  people),  keeping  track  of  who  has  or  needs  what,  and  making  the
-connections, either through donations, swapping, bartering, or lending. Getting
+connections, either through donations, swapping, bartering, or lending.
+
+免费获取东西自然的方法是社交，依赖和他人的联系（现在经常是互联网思维的人们），跟踪谁有和谁有需要，通过捐赠，交换，改造和租借建立起连接。
+
+ Getting
 and providing things for free provides value to society insofar as it keeps things
 out  of  the  landfill  and  reduces  the  sales  price  of  newly  produced  things.
+
+目前为止，提供免费的东西给社会带来的价值是不让有用的东西进垃圾场，也减少了新产品的价格。
+
 Providing  things  for  free  provides  value  insofar  as  it  prevents  further
 consumption of finite resources and maximizes the use of our productive efforts.
+
+提供免费东西的价值是阻止了无限的资源消耗和最大化产品的价值。
+
 It's somewhat likely that you're only going to use a given item a few times
-yourself  too.  Sending  it  along,  thus  instituting  a  kind  of  serial  ownership,
-maximizes its total use. Serial ownership creates a form of decentralized library.
+yourself  too. 
+
+最有可能的是，你也只会用几次别人给你的东西。
+
+ Sending  it  along,  thus  instituting  a  kind  of  serial  ownership,
+maximizes its total use.
+
+把它送走，就是一种形式的串行使用权，着最大化了事物的总用量。
+
+ Serial ownership creates a form of decentralized library.
+
+串行使用权创造了一种去中心化的图书馆。
+
 While  there  are  websites  which  bring  serial  owners  together,  availability  is
 limited since people are free to keep things as long as they wish, and many do
-keep their things around, "just in case." Serial ownership can easily be developed
-as an attitude simply by selling things once they're no longer in use. To minimize
-depreciation  costs,  buy  and  sell  used.  The  total  cost  of  ownership  will  be
-minimal. Often things go out of use because they break and the owner doesn't
-know how to fix them. Such things can frequently be acquired very cheaply or
-for free. Sadly, they're often thrown out immediately, so if you're looking for
-broken  things  to  rescue,  you  must  be  vigilant.  Often,  these  things  are  easily
+keep their things around, "just in case." 
+
+有一些网站能把串行的拥有者几乎到以前，运行人们愿意多久就多久持有物品的自由，让他们把东西放身边“以防万一”。
+
+Serial ownership can easily be developed
+as an attitude simply by selling things once they're no longer in use.
+
+把不再使用的东西卖掉，作为一种态度，串行所有权能能被非常简单地开发出来。
+
+ To minimize
+depreciation  costs,  buy  and  sell  used. 
+
+买入然后用完卖掉，这最小化了折旧价格。
+
+ The  total  cost  of  ownership  will  be
+minimal.
+
+总的持有成本被最小化了。
+
+ Often things go out of use because they break and the owner doesn't
+know how to fix them. 
+
+经常，东西坏了以后就不再用了，因为拥有者不知道如何修理它。
+
+Such things can frequently be acquired very cheaply or
+for free.
+
+这些东西经常能非常便宜或者免费地获取。
+
+ Sadly, they're often thrown out immediately, so if you're looking for
+broken  things  to  rescue,  you  must  be  vigilant. 
+
+不幸的是，这些东西经常被直接扔掉，如果你想找坏的东西修好，你必须机警点。
+
+ Often,  these  things  are  easily
 fixable--bicycles with loose brakes and flat tires, lawn mowers with dirty spark
 plugs, furniture with loose screws--and a person with a few simple repair skills
-can fix them. Repairing many things is surprisingly easy. Most mechanical items
+can fix them. 
+
+经常，这些东西非常好修，刹车松了和没气了的自行车，火花塞积炭了的除草机，螺丝松了的家具，稍微有点维修技能的人都能把它修好。
+
+ Repairing many things is surprisingly easy. 
+ 
+ 很多东西维修起来都异常简单。
+ 
+ Most mechanical items
 are put together with nuts and bolts and only require a set of the right wrenches
-or screwdrivers. Beginners should at the very least be able to replace a broken
-part. The trick is to find out which part is broken, but keep using the replacement
+or screwdrivers. 
+
+很多机械设备只需要合适的板子和改锥，用螺丝和螺母把它们组装到一起。
+
+Beginners should at the very least be able to replace a broken
+part. 
+
+初学者应该至少能替换坏了的部分。
+
+The trick is to find out which part is broken, but keep using the replacement
 method and you will find the right part.
+
+挑战是找出哪里坏了，不断使用替换法你就能找出那块坏了。
+
 If  you  get  your  networking  and  repair  skills  down,  you'll  find  yourself
 buying mostly the missing parts for your solutions and tools to fit them in--buy
-tools that last a lifetime and this phase will soon be over. After all, any finished
-product can usually be had for free. The most important thing to remember is
+tools that last a lifetime and this phase will soon be over.
+
+如果你拥有网络和维修技能，你会发现你只是在买缺失的部分和合适的工具，购买工具会持续一段时间，然后这个阶段很快就结束了。
+
+ After all, any finished
+product can usually be had for free. 
+
+这以后，任何完成了的产品通常免费的。
+
+The most important thing to remember is
 that the price of anything is not determined by how much effort went into the
-production. If it was, I should be paid as much for writing this book as an actor
-gets  for  a  movie.  Nor  does  it  depend  on  the  level  of  specialized  knowledge
-required for the job. If it was, I should have earned more than $40,000 per year
+production.
+
+最重要的事情是牢记，物品的价格不是由向产品中投入多少精力决定的。
+
+ If it was, I should be paid as much for writing this book as an actor
+gets  for  a  movie. 
+
+如果是这样，我写这本书应该和电影演员收入一样多。
+
+ Nor  does  it  depend  on  the  level  of  specialized  knowledge
+required for the job.
+
+也不取决于这项工作的知识专业度。
+
+ If it was, I should have earned more than $40,000 per year
 after  spending  10  years  to  acquire  what  corresponds  to  a  master's  degree  in
 nuclear  physics  and  a  PhD  in  astrophysics,  given  that  you  can  also  earn  this
-salary  as  a  toll  booth  operator.  Nor  is  it  determined  by  any  kind  of  inherent
+salary  as  a  toll  booth  operator. 
 
-value. If it was, school teachers would be paid more than professional athletes
-and bankers. It's strictly determined by how much the seller can get. This took
-the  economics  profession  hundreds  of  years  to  figure  out.  Since  there  are
+如果是这样，我应该赚的比4万刀每年，因为我花了10年时间获得了核物理和天体物理博士，这给的和一个收费站的操作员是一样的收入。
+
+ Nor  is  it  determined  by  any  kind  of  inherent
+
+value. 
+
+
+ If it was, school teachers would be paid more than professional athletes
+and bankers. 
+
+
+It's strictly determined by how much the seller can get.
+
+
+ This took
+the  economics  profession  hundreds  of  years  to  figure  out.  
+
+
+
+Since  there  are
 different sellers with different levels of knowledge about their customers, prices
 vary.
 When  buying  parts,  tools,  as  well  as  new  things,  always  try  to  get  three
