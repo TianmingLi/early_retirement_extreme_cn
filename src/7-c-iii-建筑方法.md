@@ -621,71 +621,249 @@ paint jobs), you realize that the oil is just there to provide lubrication.
 
 You could
 use anything, including spit.
-For  more  advanced  rust  removal  you  can  use  electrolysis.  While  many
+
+你可以使用任何东西，包括唾沫。
+
+For  more  advanced  rust  removal  you  can  use  electrolysis.  
+
+更进一步的除锈方法，你可以使用电解法。
+
+While  many
 hobbyists and mechanics use this method routinely, most have only seen this in
 action  in  a  high  school  or  university  laboratory  and  haven't  thought  that  the
-principle could be applied "outside the box" of a laboratory setting. Use a 2Amp
+principle could be applied "outside the box" of a laboratory setting. 
+
+很多爱好者和机械上使用这种方法，很多人只是在高中或者大学实验室里做过这个，没有想过这可以在实验室外应用。
+
+Use a 2Amp
 nondigital car battery charger for the electric source and sodium carbonate (also
 known as "washing soda"50 or "pH-Upper" or "booster" for your pool) mixed in
-water for your electrolyte. Attach the part to be cleaned to the negative clamp
-and some piece of scrap iron to the positive clamp. Bodging enters because you
-don't  need  to  specifically  use  sodium  carbonate.  You  could  also  use  sodium
-bicarbonate,  also  known  as  baking  soda.  The  only  downside  of  sodium
-bicarbonate is that it doesn't work as well, but it will work. The concentration of
-sodium carbonate doesn't matter very much (more is slightly faster), nor does the
-current (higher is slightly faster). If you understand the principle of how ions
-move, you'll quickly realize that rust is removed along the line of sight to the
-positive clamp. However, you don't need to understand this to observe that it
-works.  Just  keep  repeating  to  yourself,  "This  isn't  rocket  science."  However,
-bodging requires another skill to be developed--common sense. We have been
-educated  to  follow  instructions  because  it  moves  personal  responsibility  one
-level of management up. Yet if you're bodging, all responsibility is yours. You
-must know what you're doing. Notice that bubbles appear around the negative
-clamp. This is hydrogen. Hydrogen is explosive, think "Hindenburg disaster," so
-don't use the water in your rust removal setup to extinguish cigarettes and keep it
-in a ventilated area. This is common sense. Furthermore, you might think that
-ordinary  kitchen  salt  might  make  a  great  electrolyte.  However,  the  chemical
-name of kitchen salt is sodium chloride. Since we are bodging we might produce
+water for your electrolyte.
 
-some unintended consequences. If the ingredients are sodium and chlorine, those
+使用一个2A的非数字汽车电池充电器做电影，在水中混入碳酸钠作为电解液。
+
+ Attach the part to be cleaned to the negative clamp
+and some piece of scrap iron to the positive clamp. 
+
+把要清洁的部分接到负极，一块铁片接到正极。
+
+Bodging enters because you
+don't  need  to  specifically  use  sodium  carbonate.  
+
+你不一定要用碳酸钠。
+
+You  could  also  use  sodium
+bicarbonate,  also  known  as  baking  soda. 
+
+可以用碳酸氢钠，也叫做小苏打。
+
+ The  only  downside  of  sodium
+bicarbonate is that it doesn't work as well, but it will work. 
+
+碳酸氢钠效果不好，但是也能用。
+
+The concentration of
+sodium carbonate doesn't matter very much (more is slightly faster), nor does the
+current (higher is slightly faster). 
+
+碳酸钠的浓度不重要（浓度高更快），电流大小也不重要（电流大更快）。
+
+If you understand the principle of how ions
+move, you'll quickly realize that rust is removed along the line of sight to the
+positive clamp.
+
+如果你理解离子移动的基本原则，你很快就能意识到铁锈随着正电极线性移除。
+
+ However, you don't need to understand this to observe that it
+works. 
+
+然而，你不需要理解它这也会工作。
+
+ Just  keep  repeating  to  yourself,  "This  isn't  rocket  science."  
+ 
+只是告诉自己，“这并不是火箭科学。”
+ 
+ However,
+bodging requires another skill to be developed--common sense.
+
+但是，修改还需要一个技能——常识。
+
+ We have been
+educated  to  follow  instructions  because  it  moves  personal  responsibility  one
+level of management up. 
+
+我们都被教导过要遵守指示，因为它把一个人的管理责任提升了一级。
+
+Yet if you're bodging, all responsibility is yours. 
+
+当你改进配方的时候，你担负全部责任。
+
+You
+must know what you're doing.
+
+你必须知道你在干啥。
+
+ Notice that bubbles appear around the negative
+clamp. 
+
+注意到负电极部分出现了气泡。
+
+This is hydrogen. Hydrogen is explosive, think "Hindenburg disaster," so
+don't use the water in your rust removal setup to extinguish cigarettes and keep it
+in a ventilated area.
+
+这是氢气。氢气是有爆炸性的，想想“兴登堡灾难”，不要用除锈的装置中点香烟，把它放在通风的环境。
+
+ This is common sense. Furthermore, you might think that
+ordinary  kitchen  salt  might  make  a  great  electrolyte.
+
+这是常识。
+
+更进一步，你可能想厨房的食盐可能是不错的电解质。
+
+  However,  the  chemical
+name of kitchen salt is sodium chloride. 
+
+然而，食盐化学上的名字是氯化钠。
+
+Since we are bodging we might produce
+
+some unintended consequences. 
+
+因此我们的修改可能会产生一些不想要的产物。
+
+If the ingredients are sodium and chlorine, those
 consequences are chlorine gas,51 which was used as a war gas in World War I,
 and sodium hydroxide (caustic soda).
+
+如果电解质是纳和氯，产物是氯气，这曾被作为毒气在一战中使用，还有就是氢氧化钠（苛性钠）。
+
 From a general knowledge of history and chemistry, it should therefore be
 clear that kitchen salt and sparks (from cigarettes or nearby battery chargers)
-should  be  avoided.  Also,  don't  stick  your  hands  into  the  conducting  water.
+should  be  avoided. 
+
+从基本的历史和化学知识出发，食盐和火花（烟头或者临近的电池接触火花）应该避免。
+
+ Also,  don't  stick  your  hands  into  the  conducting  water.
+
+同样，也别把手放到导电的水中。
+
 Bodging  doesn't  require  an  advanced  education,  but  it  does  require  a  real
 education connecting what you've learned to real-world problems.
+
+修补不需要进阶的教育，但是需要把教育所学得到和现实的问题结合起来。
+
 It's interesting to note that the more you know, the more likely you are to
-worry about the risks of bodging. Yet, the more you know, the more you realize
-that often even experts are simply bodging. You may find this comforting or
-worrying depending on your personality and how much you know. One problem
+worry about the risks of bodging. 
+
+有趣的是，你知道的越多，你担心的风险项越多。
+
+Yet, the more you know, the more you realize
+that often even experts are simply bodging. 
+
+当然，你知道的越多，你越意识到专家只是在做简单的修补。
+
+You may find this comforting or
+worrying depending on your personality and how much you know.
+
+你会发现这是满意的还是令人担心的取决于你个人能力和你知道多少。
+
+ One problem
 with bodging is that it's difficult to tell whether someone is winging it or actually
-knows what they are doing. A good way to tell an expert bodger from a pseudo-
+knows what they are doing.
+
+一个修补的问题是，很难说明一个正在做这个的人是不是知道他们在做什么。
+
+ A good way to tell an expert bodger from a pseudo-
 expert is to see if the bodger understands why he is doing something a particular
-way. If he mentions "beliefs," "authority," "others," etc., chances are good that he
-is winging it for personal gain. Be honest about yourself. If you can't bodge,
+way. 
+
+一个区别专家还是伪专家的方法是，看他是不是理解他自己的特殊方法。
+
+If he mentions "beliefs," "authority," "others," etc., chances are good that he
+is winging it for personal gain. Be honest about yourself. 
+
+如果他提到了“信念”，“权威”，“其他人”等等，他只是在借此增加自身的分量，对自己要诚实。
+
+If you can't bodge,
 delay the project and work on something easier until you can.
-Bodging  transitions  smoothly  into  fixing  things.  Fixing  things,  or  rather
-parts,  eventually  transitions  into  creating  parts.  First  you'll  be  creating
-replacement parts, but eventually you'll be creating your own parts. At this point
+
+如果你不能修补，就依靠那些简单到你能做的项目。
+
+
+Bodging  transitions  smoothly  into  fixing  things. 
+
+修补能平滑地转换成修好。
+
+ Fixing  things,  or  rather
+parts,  eventually  transitions  into  creating  parts.
+
+修好或更换部件，甚至能转换成创造部件。
+
+  First  you'll  be  creating
+replacement parts, but eventually you'll be creating your own parts.
+
+最开始，你会创造可替换的部件，更进一步你就会创造你自己的部件。
+
+ At this point
 you'll thoroughly understand the technology you're using and be ready to make
 your own custom-made tools to solve problems.
+
+从这个点上看，你会透彻地理解你使用的技术，准备好制作你自己的工具来解决问题。
+
 This  way  of  learning  differentiates  itself  from  the  educational  system
 because  it  is  real  learning--that  is,  learning  by  doing  rather  than  learning  by
-taking notes, passing tests, and getting degrees. When I, having gone through the
+taking notes, passing tests, and getting degrees.
+
+这种学习方法不同于教育体现，因为这才是真正的学习，通过实践去学习，而不是通过记笔记，通过考试，获得学历来学习。
+
+ When I, having gone through the
 latter  process,  talked  to  people  about  how  they  learned  to  fix  engines,  I  was
-surprised to learn that very often they had never taken a course. The typical story
+surprised to learn that very often they had never taken a course. 
+
+当我开始之后的过程，和人讨论他们如何学会修发动机的，我一直惊讶于他们从没有上过课。
+
+The typical story
 was that at some point they had gotten a broken engine and simply tinkered with
 it until it worked.
+
+典型的故事是，他们的发动机坏了，他们开始一点点修理，直到修好为止。
+
 Each new method requires further development of skill, and you may find
 yourself transitioning through different stages depending on your other skills and
-personality. At any point in time, one stage may dominate your thinking since
-few  will  be  able  to  develop  all  skills  equally  fast.  Those  with  strength  of
+personality.
+
+即使新方法需要更进一步的技能开发，你会发现你不同阶段的转变依赖于你的其他技能和个性。
+
+ At any point in time, one stage may dominate your thinking since
+few  will  be  able  to  develop  all  skills  equally  fast.  
+
+从任何时间点上，一个阶段会占据你的思考，一维很少人有能力同等快速地发展所有技能。
+
+Those  with  strength  of
 character will seek to change, simplify, and downsize, as it goes well with "doing
-without  things."  Once  a  resilient  network  has  been  established,  bartering,
+without  things." 
+
+那些有人性的会吸收掉改变，简化，缩小，直到它变成“无为而治”。
+
+ Once  a  resilient  network  has  been  established,  bartering,
 swapping,  and  wheeling  and  dealing  will  become  more  exciting  than
-simplifying.  Technical  skills  ultimately  lead  to  creative  pursuits,  building  and
-making things and rarely doing without, despite rarely buying anything. In my
+simplifying. 
+
+一旦一个松散的网络建立起来，重制，交换，交易都会变得非常令人兴奋。
+
+ Technical  skills  ultimately  lead  to  creative  pursuits,  building  and
+making things and rarely doing without, despite rarely buying anything. 
+
+技术最终导向创造力，建造和制作东西会几乎不需要买任何东西。
+
+In my
 case, I quickly found myself cooking my own meals and giving things away and
 acquiring others for free, whereas it took me a long time to start a garden and I'm
-still learning to fix motors and build furniture. Other journeys may be different.
+still learning to fix motors and build furniture. 
+
+我的例子是，我很快发现我能自己做饭，放弃一些东西，和免费获取一些东西，然而开始园艺却花了我很长时间，我现在仍然在学习修摩托和做家具。
+
+Other journeys may be different.
+
+其他的旅程可能是不同。
