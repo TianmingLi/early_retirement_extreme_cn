@@ -281,7 +281,7 @@ point of diminishing returns to the pleasure of giving things up.
 The optimal
 point is somewhere in the middle.
 
-最有的点是在中间的某个地方。
+最优的点是在中间的某个地方。
 
  It should therefore be kept in mind that while
 eliminating problems  can be  a  very good  tool, some  will  be very  tempted  to
@@ -431,7 +431,7 @@ after  spending  10  years  to  acquire  what  corresponds  to  a  master's  deg
 nuclear  physics  and  a  PhD  in  astrophysics,  given  that  you  can  also  earn  this
 salary  as  a  toll  booth  operator. 
 
-如果是这样，我应该赚的比4万刀每年，因为我花了10年时间获得了核物理和天体物理博士，这给的和一个收费站的操作员是一样的收入。
+如果是这样，我每年应该赚的比4万刀多，因为我花了10年时间获得了核物理和天体物理博士，这给的和一个收费站的操作员是一样的收入。
 
  Nor  is  it  determined  by  any  kind  of  inherent
 
@@ -457,7 +457,7 @@ Since  there  are
 different sellers with different levels of knowledge about their customers, prices
 vary.
 
-因为不同的销售对他们顾客知识层次是不同的，价格也就出现了变化。
+因为不同的销售对他们顾客的认知层次是不同的，价格也就出现了变化。
 
 When  buying  parts,  tools,  as  well  as  new  things,  always  try  to  get  three
 different prices across markets (new and used) and time (do prices tend to go up
@@ -535,7 +535,7 @@ books that will teach you how.
 will separate your work from that of a professional is that the professional can do
 it five times faster than you can do it--the first time.
 
-只需要一点点的经验，把你和专家区分开的只是，专家做到比你第一次做快5倍。
+只需要一点点的经验，把你和专家区分开的只是，专家做的比你第一次做快5倍。
 
 This means that anything done more than once is worth doing yourself. 
 
@@ -866,4 +866,4 @@ still learning to fix motors and build furniture.
 
 Other journeys may be different.
 
-其他的旅程可能是不同。
+其他的旅程可能是不同的。
