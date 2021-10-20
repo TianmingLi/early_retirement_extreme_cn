@@ -129,7 +129,7 @@ mixer, not counting the time one must work to earn the money for a hand mixer.
 Consider the difference between an experienced swimmer and a beginning
 swimmer.
 
-考虑一下专业有用选手和初学者间的区别。
+考虑一下专业游泳者和初学者间的区别。
 
  The former is fast and the latter is slow. 
  
@@ -146,7 +146,7 @@ water,  whereas  the  beginner  is  inefficient  and  struggles  just  to  keep 
 
 afloat. 
 
-专业游泳选手在水中划水时非常有效率，与此同时初学者挣扎着把他的头浮起来。
+专业游泳者在水中划水时非常有效率，与此同时初学者挣扎着把他的头浮起来。
 
 Money-handling skills are very similar. 
 
@@ -161,6 +161,6 @@ An
 unskilled money handler spends money everywhere, too much on some things,
 too little on other things, with much going to waste.
 
-一个无技能的控钱手把钱到处花到很多东西上，这一点那一点，很多浪费掉了。
+一个无技能的控钱手把钱到处花到很多东西上，这一点那一点，很多都浪费掉了。
 
 
