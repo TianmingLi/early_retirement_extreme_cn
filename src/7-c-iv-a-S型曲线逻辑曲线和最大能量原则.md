@@ -205,11 +205,15 @@ you engage in or whatever the curves are measuring--presumably you'd have a
 curve for each project and multidimensional returns for each project, where total
 utility (see Building blocks) is maximized (see Ecological).
 
-最优化的生活策略是最大化你设计事物的总“产出”，或者无论什么曲线来衡量——有可能你每个项目都有不同的曲线和多维的回报，这里总的效用（参见构造模块）是最大化的（参见生态学）。
+最优化的生活策略是最大化你涉及事物的总“产出”，或者无论什么曲线来衡量——有可能你每个项目都有不同的曲线和多维的回报，这里总的效用（参见构造模块）是最大化的（参见生态学）。
 
  Pricewise, it would
 be  impossible  to  quantify  because  it  would  require  you  to  determine  the
-exchange rate between health, money, satisfaction, meaning, etc., some of which
+exchange rate between health, money, satisfaction, meaning, etc.
+
+就价值而论，这会是不可能衡量的，因为这会要求你决定健康、金钱、自信、意义等的交换价值。
+
+, some of which
 can't be quantified. Those values can be subjectively determined, though (see
 Emotional).
 Given  a  finite  effort  (you  only  have  so  many  days  left  to  live)  total
