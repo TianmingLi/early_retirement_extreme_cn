@@ -233,7 +233,7 @@ ecology.
 What this means is that effort must be distributed between projects for
 maximum return on total effort. Put in the effort where the yield is highest. 
 
-这就意味着项目间的投入必须相互贡献以获得最大的总产出。把经历投入到能产出最高的地方。
+这就意味着项目间的投入必须相互贡献以获得最大的总产出。把精力投入到能产出最高的地方。
 
 The
 yield is highest where the marginal increase of the return relative to the marginal
@@ -315,5 +315,5 @@ This means that you may gain
 more utility by being competent (journeyman level) in 10 different topics than
 by spending the same amount of time to become an expert in a single topic.
 
-这意味着你可以在同一项目上放置10项目，而不是花相同的时间在同一项目上力图成为专家。
+这意味着为了增加效用每个项目上放置10话题，而不是花相同的时间在同一项目上力图成为专家。
 
