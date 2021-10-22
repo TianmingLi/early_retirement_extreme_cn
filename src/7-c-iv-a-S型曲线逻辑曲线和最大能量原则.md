@@ -214,39 +214,106 @@ exchange rate between health, money, satisfaction, meaning, etc.
 就价值而论，这会是不可能衡量的，因为这会要求你决定健康、金钱、自信、意义等的交换价值。
 
 , some of which
-can't be quantified. Those values can be subjectively determined, though (see
+can't be quantified. 
+
+其中的一些是不能被量化的。
+
+Those values can be subjectively determined, though (see
 Emotional).
 Given  a  finite  effort  (you  only  have  so  many  days  left  to  live)  total
 "production" is optimized by maximizing the "return on effort" for each project.
+
+这些值可以被具体化地确定（参见情绪）。给定一个有限的投入（你只剩下这么多天可活了），通过每个项目的最大化“投入产出”来优化总的产出。
+
 That  is  a  key  statement  and  is  related  to  the  maximum  power  principle  of
-ecology. What this means is that effort must be distributed between projects for
-maximum return on total effort. Put in the effort where the yield is highest. The
+ecology. 
+
+这是关键的一段，并且这和生态学上的最大能量原则相关。
+
+What this means is that effort must be distributed between projects for
+maximum return on total effort. Put in the effort where the yield is highest. 
+
+这就意味着项目间的投入必须相互贡献以获得最大的总产出。把经历投入到能产出最高的地方。
+
+The
 yield is highest where the marginal increase of the return relative to the marginal
-increase of effort is the highest. In mathematical terms, this occurs where the
+increase of effort is the highest.
+
+产出的最高点在投入回报比的最高点。
+
+ In mathematical terms, this occurs where the
 derivative of the equation above is 0, that is,
+
+在数学项上，这出现在公式导数为0的时候，也就是，
+
 (d)/(dP)(dP)/(dE)=(d)/(dP)[P(1-P)] = 1-2P = 0 => P = (1)/(2)
+
+
 This means that the maximum return happens in the middle of the curve.
-This becomes obvious if we plot dP/dE, which is shown in this figure. This has a
+
+这意味着最大的回报发生在曲线的中间。
+
+This becomes obvious if we plot dP/dE, which is shown in this figure. 
+
+如果我们绘制出 dP/dE的突现就更明显了。
+
+This has a
 lot  of  bearing  on  the  discussion  of  decoupling  in  Decoupling  and  increasing
-complexity. In particular, the dynamic region is in the middle of this figure and
-this figure. The instant response, which requires 100% effort, is to the right and
+complexity. 
+
+这和在解耦和增加复杂度章节讨论的有很多的关联性。
+
+In particular, the dynamic region is in the middle of this figure and
+this figure.
+
+特别的，动态区域在[这个图](../img/7-c-iv-a-fig1.png)和[这个图](../img/7-c-iv-a-fig2.png)的中间。
+
+ The instant response, which requires 100% effort, is to the right and
 the static (no) response, which requires 0% effort, is to the left.
+
+瞬时响应，要求100%的投入，在右边，无响应，要求0%的投入，在左边。
 
 ![figure1](../img/7-c-iv-a-fig2.png)
 
 
 A curve relating additional reward to additional effort.
+
+一个附加投入和附加回报的关联曲线。
+
 To give an example, professionals are often encouraged to hyperspecialize,
 that is to put in maximum effort so that they'll achieve maximum production
 (upper right of this figure), to win the competition with other professionals and
-attract the highest salary. If money is the only utility that matters, this is the
-optimal strategy. If, however, happiness, low stress, leisure time, or other things
+attract the highest salary. 
+
+例如，专业人士经常被鼓励要更专业，也就是尽最大投入来获取他们的产出（在图中的右面），来赢得和其他专业人士的竞争并获得高薪水。
+
+If money is the only utility that matters, this is the
+optimal strategy. 
+
+如果金钱是唯一有意义的东西，那这就是最优的策略。
+
+If, however, happiness, low stress, leisure time, or other things
 
 in the work-life balance also matter, it would result in a different strategy, since
 the last, say 80% of the effort, to gain the last 20% of the results, would be
-wasted. Once you understand the maximum power principle intuitively, it'll be
-quite  easy  to  follow.  In  the  simplest  terms,  it  says  that  you  can  gain  the
+wasted.
+
+如果，幸福、低压力、闲暇时间和其他工作生活平衡的东西也有意义，那结果就是不同的策略了，至少说，80%的投入，来换取最少的20%的回报是浪费。
+
+ Once you understand the maximum power principle intuitively, it'll be
+quite  easy  to  follow. 
+
+一旦你理解了最大能量原则，这就会变得非常容易执行。
+
+ In  the  simplest  terms,  it  says  that  you  can  gain  the
 maximum utility by being relatively competent in large numbers of topics by
-contributing a nontrivial but fairly small effort. This means that you may gain
+contributing a nontrivial but fairly small effort. 
+
+最简单的是，你可以在同一项目上关联很多的模块，每个只投入很少的精力来增加最大的效用。
+
+This means that you may gain
 more utility by being competent (journeyman level) in 10 different topics than
 by spending the same amount of time to become an expert in a single topic.
+
+这意味着你可以在同一项目上放置10项目，而不是花相同的时间在同一项目上力图成为专家。
+
