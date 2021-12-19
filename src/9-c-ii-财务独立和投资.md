@@ -178,7 +178,7 @@ means that P will increase even as money is withdrawn.
 
 这也意味着即使有撤出，P还会增加。
 
-![figure1](/img/9-c-ii-fig1.png)
+![figure1](../img/9-c-ii-fig1.png)
 
 
 Size of fund given in years of expenses versus how long it will actually
@@ -268,7 +268,7 @@ a modest 3% return rate.
 
 根据这张[图]()，即使在3%的回报率下，一个30年的本金会持续70年。
 
-![figure2](/img/9-c-ii-fig2.png)
+![figure2](../img/9-c-ii-fig2.png)
 
 The time M it takes to grow P₀/p to 30 for a given savings rate r. 
 
@@ -352,7 +352,7 @@ about 20 years of work at a 10% rate, and about 45 years at a 4% rate.
 
 相反，如果储蓄率为15%，那就要求，即使乐观的6%的回报率，也要工作35年，10%的储蓄率，工作35年，4%的储蓄率，工作45年。
 
-![figure3](/img/9-c-ii-fig3.png)
+![figure3](../img/9-c-ii-fig3.png)
 
 Figure showing savings rate against years to retirement for a range of
 investment return rates, presuming that the total number of years worked
