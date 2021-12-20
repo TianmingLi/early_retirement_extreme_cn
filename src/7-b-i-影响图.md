@@ -90,7 +90,8 @@ effect has one positive second-order side effect (POS-POS) and two
 negative second-order side effects (POS-NEG). The first negative side
 effect has two positive second-order side effects (NEG-POS).
 Let us consider a few examples.
-
+这个目标有两个正面（POS）和一个负面的一阶副作用（NEG）。 第一个积极的副作用有一个积极的二阶副作用（POS-POS）。 第二个正副作用具有一个正二阶副作用 (POS-POS) 和两个负二阶副作用 (POS-NEG)。 第一个负面副作用有两个正面的二阶副作用 (NEG-POS)。
+让我们考虑几个例子。
 
 [Hobby] The zeroth-order goal is to have fun. The first-order negative side
 effect is that it costs money. Another first-order negative effect is that it
