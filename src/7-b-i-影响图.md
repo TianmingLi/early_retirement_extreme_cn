@@ -151,7 +151,7 @@ Consider  the  sum  total  of  all  the  effects  of  your  actions.
 specific  actions  will  lead  to  specific  outcomes,  all effects can be considered
 goals, whether you actually want to achieve them or not. 
 
-适配不同的活动会导致特定的蔬菜，所有的影响可以被认为是目标，不管你事实上有没有达到这个目标。
+适配不同的活动会导致特定的产出，所有的影响可以被认为是目标，不管你事实上有没有达到这个目标。
 
 You may find some of
 these goals to be counterproductive. 
