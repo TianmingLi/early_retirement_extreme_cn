@@ -139,7 +139,7 @@ The list is
 individual,  because  any  choice  has  consequences  in  other  domains  (see
 Contingency goal-setting).
 
-这个列表是独立，因为任何选择都有其他领域的后果（参见持续性的目标设定）。
+这个列表是独立，因为任何选择都有其他领域的后果（参见应变目标设定）。
 
 For each individual, there are similar lists for eating, clothing, transportation,
 health, time, tools, toys, activities, status, etc.
