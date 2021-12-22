@@ -68,7 +68,7 @@ This is called skimming.
 It's the same strategy pursued by weeds, to use an ecological analogy.
 At the expert level (see Gauging mastery), a person needs 80-100 hours a week to stay competitive. 
 使用生态学类比，这与杂草所追求的策略相同。
-在专家级别（参见[衡量专业性]()），一个人每周需要 80-100 小时才能保持竞争力。
+在专家级别（参见[衡量精通]()），一个人每周需要 80-100 小时才能保持竞争力。
 For masters level, it's 60-80 hours, and to remain competent requires 40-60 hours a week.
 对于大师水平，它是 60-80 小时，而保持能力需要每周 40-60 小时。
 
