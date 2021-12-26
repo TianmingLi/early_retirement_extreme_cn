@@ -56,83 +56,31 @@ This is both simple as well as tremendously challenging, because it requires a d
 
 To get started, make a list of services and things acquired in the marketplace (see Building blocks for how to get a better idea of how to look for them) and start learning them on a need-to-know basis (see The Renaissance education). 
 
-Here is a short list41 of suggestions:  1. 
+Here is a short list41 of suggestions:  
 
-Hair cutting. 
+1.  Hair cutting. If necessary change your hairstyle into something you can do.
+Be flexible!
+1.理发。如果必要的话，把你的发型改成你能做的。
+变灵活！
+2.  Mending clothes and darning socks.
+2.补衣服和补袜子。
+3.  Cooking, preferably from scratch. Heating something in the microwave or
+mixing powder with water doesn't count. Again, if necessary, change your
+diet.
+3.烹饪，最好从头开始。用微波炉加热或将粉末与水混合不算数。如果有必要，再次改变你的饮食。
+4.  Buying  something  used  instead  of  new  or  swapping  something.  There  are now many websites to facilitate this.
+4.购买用过的东西而不是新，交换的东西。现在有许多网站可以做这件事。
+5.  Getting  somewhere  without  a  car.  Use  public  transportation, commute  by bicycle or try walking a few blocks to the grocery.
+5.不开车到达某处。使用公共交通工具，骑自行车上下班，或者试着走几个街区去杂货店。
+6.  Borrowing a book  from  the  library.  It's  amazing  how  many  people  do not take advantage of this free resource.
+6.从图书馆借书。令人惊讶的是，有多少人没有利用这一免费资源。
+7.  Planting a garden of edible vegetables. Start with spices. Move onto high-cost/low-effort plants like tomatoes (not potatoes). Look into permacultureand intensive gardening.
+7.在菜园种植可食蔬。从香料开始。转向高成本/低投入的植物，如西红柿（而不是土豆）。了解永久性种植和密集型园艺。
+8.  Making  simple  nontoxic  household  agents  from  scratch,  like  laundry detergent, toothpaste, insect killer, window cleaner, or beer.
+8.从零开始制作简单无毒的家用洗涤剂，如洗衣粉、牙膏、杀虫剂、窗户清洁剂或啤酒。
+9.  Bicycle,  motorcycle,  or  car  maintenance.  At  least  start  by  washing  it yourself.  Move  on  to  fixing  flats,  cleaning,  changing  oil,  and  lubricating parts. Graduate to disassembling the drive train and engine.
+9.自行车、摩托车或汽车维修。至少从自己洗开始。继续固定平面、清洁、换油和润滑零件。开始分解传动系和发动机。
 
-If necessary change your hairstyle into something you can do. 
-
-1. 
-
-理发。如果可能，把发行变成你能处理的样子。  Be flexible!  变灵活！  2. 
-
-Mending clothes and darning socks. 
-
-2. 
-
-补衣服和补袜子。  3. 
-
-Cooking, preferably from scratch. 
-
-Heating something in the microwave or mixing powder with water doesn't count. 
-
-Again, if necessary, change your diet. 
-
-3. 
-
-做饭，最好从基础开始。用微波炉加热或者沏粉末不算。另外，如果有必要，更改你的食谱。  4. 
-
-Buying something used instead of new or swapping something. 
-
-There are now many websites to facilitate this. 
-
-4. 
-
-买些二手的东西或者交换一些东西。有特别多的网站来做这个。  5. 
-
-Getting somewhere without a car. 
-
-Use public transportation, commute by bicycle or try walking a few blocks to the grocery. 
-
-5. 
-
-不用车到一些地方。使用公共交通，骑自行车或者走路去商店。   6. 
-
-Borrowing a book from the library. 
-
-It's amazing how many people do not take advantage of this free resource. 
-
-6. 
-
-从图书馆借书。令人惊讶的是太多人不利用这一免费的资源。  7. 
-
-Planting a garden of edible vegetables. 
-
-Start with spices. 
-
-Move onto high- cost/low-effort plants like tomatoes (not potatoes). 
-
-Look into permaculture and intensive gardening. 
-
-7. 
-
-在花园种些可以吃的蔬菜。从调味蔬菜开始。转移到像土豆（不是番茄）这样高回报低投入的植物。研究永久性和集中式的菜园。  8. 
-
-Making  simple  nontoxic  household  agents  from  scratch,  like  laundry detergent, toothpaste, insect killer, window cleaner, or beer. 
-
-8. 
-
-从头制作一套无害的居家设施，像清洗液，牙膏，杀虫剂，玻璃清洁剂或者啤酒。   9. 
-
-Bicycle,  motorcycle,  or  car  maintenance. 
-
-At  least  start  by  washing  it yourself. 
-
-Move on to fixing flats, cleaning, changing oil, and lubricating parts. 
-
-Graduate to disassembling the drive train and engine. 
-
-9. 自行车，摩托车，或者汽车的维护。只是从自己洗车开始。移动到修外观，清洁，换机油，更换配件。进阶到拆解驱动装置和引擎。  
 A very common and very good piece of career advice is not to work to earn money but to work to learn new skills, gain new connections, and create new opportunities. 
 
 Similarly, life advice like the above should not exclusively be for the purpose of saving money--although it'll come in handy later in Important financial  ratios--but  to  build  social  cohesion  and  connections  and  learn  and exercise skills that can later create opportunities. 
