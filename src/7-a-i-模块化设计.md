@@ -4,23 +4,30 @@ This figure shows how the dependencies look in greater detail and in extreme con
 
 There's  a  box  for  the home, a box for the job, where the consumer drives to get money, and boxes for stores, where he drives to exchange the money from his job for entertainment or stuff which he drives back to his home. 
 
+
 ![figure1](../img/7-a-i-fig1.png)  
 
 Consumer culture shows a modular structure where problems are solved by driving to different stores to buy parts of the solution. 
 
 This activity is made possible by driving to a job and exchanging time for money. 
 
+
 This figure shows a tight coupling between the consumer, the job, and the stores, respectively. 
 
 Here the stores should be thought of broadly as shops, gyms, restaurants,  dentists,  plumbers,  etc. 
 
-If  the  coupling  to  the  job  is  severed,  the advanced consumer with good credit, savings, or insurance can draw on those, but he still needs to go to stores for his needs, since everything requires external interaction in the form of regular trips to stores--"I'm going to the store, need anything?" This  is  the  consequence  of  specialization. 
+If  the  coupling  to  the  job  is  severed,  the advanced consumer with good credit, savings, or insurance can draw on those, but he still needs to go to stores for his needs, since everything requires external interaction in the form of regular trips to stores--"I'm going to the store, need anything?" 
+
+
+This  is  the  consequence  of  specialization. 
 
 The  solutions  to  his  problems, except the very specialized problem detailed in his job description, have been outsourced  to  the  marketplace  and  personal  competence  has  been  lost  or replaced with information on "where to find good deals." Eventually he comes to depend strongly on this marketplace and hence on his continued employment. 
+
 
 The individual consumers depend as strongly on an aggregate of stores as the stores depend on the aggregate of consumers. 
 
 This explains advertising and the insistence for expert solutions, at least as far as the experts are concerned, for they need to earn money at their jobs too. 
+
 
 This is outsourcing taken to its logical extreme. 
 
@@ -46,17 +53,22 @@ The third is lack of choices.
 
 When the market mainly offers full-time jobs and the culture expects you to spend the rest of your time shopping and watching TV, it leaves little time for anything else. 
 
+
 For  individuals,  outsourcing  and  comparative  advantage  can't  remain advantageous  in  practice  if  taken  to  extremes. 
 
-Yet  in  many  ways  it  has  been taken too far already when people spend eight hours a day for 30 years to buy electric can openers and marble towers.The solution is to reverse the outsourcing of ordinary life skills and gradually insource skills that were previously acquired in the marketplace to become less dependent on a single source of income. 
+Yet  in  many  ways  it  has  been taken too far already when people spend eight hours a day for 30 years to buy electric can openers and marble towers.The solution is to reverse the outsourcing of ordinary life skills and gradually insource skills that were previously acquired in the marketplace to 
 
-become less dependent on a multitude of store services. 
+
+- become less dependent on a single source of income. 
+
+- become less dependent on a multitude of store services. 
 
 This is both simple as well as tremendously challenging, because it requires a different kind of thinking. 
 
 To get started, make a list of services and things acquired in the marketplace (see Building blocks for how to get a better idea of how to look for them) and start learning them on a need-to-know basis (see The Renaissance education). 
 
 Here is a short list41 of suggestions:  
+
 
 1.  Hair cutting. If necessary change your hairstyle into something you can do.
 Be flexible!
@@ -89,43 +101,69 @@ This way, saving money won't be  seen  as  consumer  deprivation  but  as  produ
 
 In my opinion, that makes you a more interesting person. 
 
+
 Another very common--and in my opinion very bad--piece of advice, at least for the purposes of attaining success as a Renaissance man is to pick and focus exclusively on one thing, say hair cutting. 
 
 This may be fine if you need to make a career out of it, but if you only need to provide for yourself and possibly a few friends  there's  no  need  to  specialize  and  develop  all  skills  sufficient  to  be marketable; just focus on your own hair. 
+
 
 However, without changing one's frame of mind from that of a consumer, solving  daily  problems  by  learning  a  bunch  of  new  things  and  doing  them yourself  runs  the  risk  of  turning  into  a  multitude  of  hobbies  (see  here),  as supplies  are  ordered  from  stores,  clubs  are  joined,  or  projects  become  overly  ambitious,  at  least  in  terms  of  acquiring  the  tools  and  supplies. 
 
 This  could therefore  easily  end  up  strengthening  the  dependencies  of  this  figure,  first running out to stores to buy supplies and then running back to work to pay for them, leaving little time and room for the project, which eventually moves out to the garage with the rest of the stuff. 
 
+
 Therefore,  a  requirement  is  to  make  each  project  self-supported. 
 
-To understand  what  this  means,  divide  the  projects  into  three  groups  (and everything in between)  Projects that cost money   花钱的项目  Projects  with  start-up  costs  and  regular  fixed  costs  (see  Depreciation schedules). 
+To understand  what  this  means,  divide  the  projects  into  three  groups  (and everything in between)  
+
+- Projects that cost money   
+- 花钱的项目  
+
+Projects  with  start-up  costs  and  regular  fixed  costs  (see  Depreciation schedules). 
 
 项目有初创花费和固定支出（参考）。  You need to buy equipment and pay subscription fees or replace equipment that wears out on a regular basis. 
 
 Many sports fall under this category. 
 
-你需要购买设备和付订阅费用或者在固定周期替换损耗的设备。很多在运动都可以落在这个条目下。  Projects that are "free"   “免费的”项目  Projects  with  few  start-up  costs,  no  fixed  costs,  and  no  cash  flow,  but possibly network connections of learning skills or providing some value. 
+你需要购买设备和付订阅费用或者在固定周期替换损耗的设备。很多在运动都可以落在这个条目下。  
+
+- Projects that are "free"  
+-  “免费的”项目  
+
+Projects  with  few  start-up  costs,  no  fixed  costs,  and  no  cash  flow,  but possibly network connections of learning skills or providing some value. 
 
 These projects are free. 
 
 项目需要极少的启动资金，没有固定支出，没有现金流，但是可能是学习新技能和提供其他简直的网络连接。这些项目是免费的。   This can include using things you already have, such as a computer and an Internet connection. 
 
-这可以是使用你已经拥有的事物，例如计算机和网络连接。  Projects that earn money   赚钱的项目  Projects that are saving you money or--even better--making you money;   帮你省钱的项目——或更好——帮你赚钱；  not as in a hopeful future, but now. 
+这可以是使用你已经拥有的事物，例如计算机和网络连接。  
 
-This could include learning how to cook, fixing  computers,  mowing  people's  lawns  (for  the  exercise),  babysitting, etc  不只是在有希望的未来，而是现在。这包括了学习如何烹调，修电脑，帮人剪草坪（用于练习），看孩子等等。   It's of primary importance that a project produces value, even if that value isn't money, and doesn't destroy value. 
+- Projects that earn money   
+- 赚钱的项目  
+Projects that are saving you money or--even better--making you money;   
+帮你省钱的项目——或更好——帮你赚钱；  
+not as in a hopeful future, but now. 
+This could include learning how to cook, fixing  computers,  mowing  people's  lawns  (for  the  exercise),  babysitting, etc  
+不只是在有希望的未来，而是现在。这包括了学习如何烹调，修电脑，帮人剪草坪（用于练习），看孩子等等。   
+It's of primary importance that a project produces value, even if that value isn't money, and doesn't destroy value. 
 
-最主要的是这些项目产生价值，尽管这些价值不是钱，也不损害它的价值。  Money leaving your pocket is a big warning sign that your activities fall into the first category. 
+最主要的是这些项目产生价值，尽管这些价值不是钱，也不损害它的价值。  
+
+Money leaving your pocket is a big warning sign that your activities fall into the first category. 
 
 当你的钱从你的口袋里流走的时候就是一个警示信号，你的活动都掉进了第一个分类。   These should be avoided as much as possible and replaced with or modified into activities that are "free" but provide the opportunity to learn,  meet  new  people,  and  possibly  earn  money  eventually. 
 
-这是需要尽可能避免的并且替换或者修改为“免费”的活动，但能提供学习的计划，遇到新的人，或者偶尔有赚钱的可能。  It's  often  quite possible to find a direct, yet free, replacement for a cash-negative activity. 
+这是需要尽可能避免的并且替换或者修改为“免费”的活动，但能提供学习的计划，遇到新的人，或者偶尔有赚钱的可能。  
+It's  often  quite possible to find a direct, yet free, replacement for a cash-negative activity. 
 
-找些直接免费的活动来代替负现金流的活动是非常可能的。   For instance, rather than going to the movies, you can borrow the DVD from the library or a friend about six months later if you just change your perspective. 
+找些直接免费的活动来代替负现金流的活动是非常可能的。   
+For instance, rather than going to the movies, you can borrow the DVD from the library or a friend about six months later if you just change your perspective. 
 
-例如，通过改变你的观点，你可以六个月以后从图书馆或者朋友那里借DVD，而不是去电影院。  Don't get too ambitious about making money right away. 
+例如，通过改变你的观点，你可以六个月以后从图书馆或者朋友那里借DVD，而不是去电影院。 
+Don't get too ambitious about making money right away. 
 
-不用太急切的想立刻就赚钱。  Serendipity plays a larger role in the long term. 
+不用太急切的想立刻就赚钱。 
+Serendipity plays a larger role in the long term. 
 
 For example, I replaced my fascination with buying computer  hardware  (expensive  money  sink)  with  learning  about  the  *nix operating system (free) and eventually ended up as the system administrator of the department I was working in simply because I was the one who knew the most when the previous admin left. 
 
@@ -135,11 +173,13 @@ Blogging  was  another  activity  that  started  as  a  constructive  way  of ch
 
 My interest in economics grew out of my interest in geopolitics, and eventually turned into an interest in investing, that I combined with my savings, which came from my interest in not spending money by doing more things myself, and so I was able to devise a custom-made portfolio that suited my particular investing temperament. 
 
+
 Over time, this approach automatically develops several diversified streams of cash, as well as many more means to save money and keep that cash. 
 
 Yet, cash  flow  is  not  the  only  measure  of  independence. 
 
 Some  develop  a  social network so large that they can travel anywhere with little cost (look into courier services and couch surfing), and others develop such a wide set of skills along with an ability to sell those skills that they can work for room and board as well as a small stipend. 
+
 
 Conversely, it may be that an activity needs certain other connections. 
 
@@ -148,6 +188,7 @@ For example, using the company gym for free requires working for the company.
 In fact, companies often attempt to strengthen their employees' dependence on the company by providing "benefits" like health care, retirement plans,  and  other perks which can be thought of as golden handcuffs. 
 
 This must be kept in mind when  resolving  dependencies,  especially  connections  to  things  outside  your immediate control. 
+
 
 The optimal solution in terms of dependencies and connections is shown in this figure. 
 
@@ -162,3 +203,57 @@ They are also self-supporting and able to contribute to each other without depen
 It is resilient, much like the Internet is resilient by design, as it can still  function  even  when  individual  servers  are  down,  as  no  single  server  is critical. 
 
 Now, can you say the same thing about your life with regards to your job? Or your car?
+
+![figure1](../img/7-a-i-fig2.png)  
+
+This figure shows how to organize your activities. Much like an
+industrial conglomerate, dependencies between the projects are weak.
+Strong dependencies are contained inside the projects.
+
+Another  aspect  of  this  figure  is  that  no  single  module  dominates. 
+
+The modules are diversified into approximately equally large sizes, which decreases risk. 
+
+For instance, consider the university departments in The Renaissance ideal. 
+
+Each department in a university is about equally large and strong. 
+
+This is unlike most people where one skill completely dominates all others--for example, one may be paid $25,000/year for one activity (one's job) but less than $25/year for one's next highest source of income, which is very likely to be the interest from a savings  account. 
+
+With  proper  diversification,  if  one  income-generating  module fails,  it  doesn't  cause  shockwaves  through  the  rest  of  the  system  because  the external coupling to other modules is weak. 
+
+In addition, if the external couplings connect  to  different  modules,  rather  than  connecting  to  the  same  module,  this lack  of  centralization  protects  the  system  from  disruptions  and  cascading failures. 
+
+Furthermore, the wider the diversification, the greater the likelihood of taking  advantage  of  opportunities  in  the  unique  environment  you  reside  in,  or which you may find yourself residing in due to changing circumstances--this is the  quintessence  of  adaptability. 
+
+If  you  find  yourself  in  a  situation  where  you can't  solve  a  problem,  solve  another  problem--an  omnivore  always  has  more options available when solving the problem of eating.
+
+
+Note  that  simple,  small,  and  slow  modules  are  easier  to  manage  than complicated, large, and fast modules. 
+
+In managing modules, your reaction time should be faster than the characteristic time scale of anything you interact with and you should be able to understand and control anything you engage with/in as well  as  have  the  time  to  oversee  the  operation. 
+
+While  increasing  size  and complexity  initially  offers  better  benefits,  the  benefits  decrease  as  increasingly higher  costs  of  unforeseen  problems  swamp  the  system. 
+
+Here  the  answer  is  to offload  the  complexity,  but  where  do  you  begin  and  where  do  you  stop? Communities  like  the  Shakers  and  the  Quakers  have  thought  about  this  and decided  on  some  ground  rules  of  what  complexities  to  avoid. 
+
+In  general,  the avoided  complexities  are  the  tightly  coupled  complexities.42  They  will  gladly borrow those, but they won't own them. 
+
+To wit, they use a modularity strategy with loose couplings to avoid many problems. 
+
+Slowness  can  be  achieved  through  delayed  gratification. 
+
+In  a  world  of scarcity,  instant  gratification  is  the  optimal  strategy. 
+
+In  a  world  of  abundance, delayed gratification is the optimal strategy. 
+
+Genetically, there's a preference for the former, which means that a mature person with a measure of self-control has an advantage, being able to wait for bargains. 
+
+It also means if you have patience and  don't  depend  on  speed,  there  are  fewer  costs  to  be  paid  for  the  additional power that speed otherwise requires. 
+
+It's helpful to master the art of waiting. 
+
+We are prone to action, but often the problems we perceive as urgent turn out to be less  than  urgent. 
+
+Sometimes  they  will  even  resolve  themselves  without  any interaction.
+
