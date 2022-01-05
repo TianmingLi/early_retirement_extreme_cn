@@ -1,7 +1,7 @@
 Throughout their education (see Sigmoids, logistic curves, and the maximum power  principle),  people  have  been  told  what  to  think,  and  throughout  their careers  (see  Career)  they  have  been  told  what  to  do  and  what  to  say. 
 在他们的整个教育过程中（参见[S型曲线、逻辑曲线和最大能量原则]()），人们被告知要思考什么，在他们的整个职业生涯中（参见[职业]()），人们被告知要做什么和说什么。
  Being constantly  bombarded  with  "facts"  and  opinions,  many  people  simply  adopt them  as  their  own  (see  Succession  and  the  cycle  of  change). 
-由于不断受到“事实”和观点的炮轰，许多人干脆把它们当作自己的东西（参见[演进和变化的循环]()）。
+由于不断受到“事实”和观点的炮轰，许多人干脆把它们当作自己的东西（参见[演替和变化的循环]()）。
  Most  people therefore  do  not  think  for  themselves,  but  rely  on  others  to  do  it  for  them. 
 因此，大多数人不为自己思考，而是依靠他人为自己思考。
 Consequently,  many  people  follow  authority,  rely  on  experts,  and  get  their opinions from pundits and the Internet. 
