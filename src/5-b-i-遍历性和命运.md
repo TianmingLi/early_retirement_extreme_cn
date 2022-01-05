@@ -41,7 +41,7 @@ However, understanding that they work due to the aggregate effect  of  many  sma
 As an aside, it's interesting to note that the popularity of these books and methods increase if they also make the untrue statement that you can have whatever you want merely by wishing for it to come true. 
 顺便说一句，有趣的是，即使这些书做出不真实的陈述，而你希望可以得到你想要的任何东西，那么它们的受欢迎程度也会增加。
 This only holds during periods of prosperity, as "a rising tide lifts all  boats."  It  is,  therefore,  not  surprising  that  such  books  sell  mainly  during economic  boom  times. 
-这只适用于繁荣时期，因为“涨潮会把所有船都漂起来”因此，这类书籍主要在经济繁荣时期销售也并不奇怪。
+这只适用于繁荣时期，因为“涨潮会把所有船都会浮起来”因此，这类书籍主要在经济繁荣时期销售也并不奇怪。
 Yet  while  there  is  no  physical  connection  between wishing  for  something  and  actually  achieving  it,  there's  no  denying  that  by making something a priority and constantly thinking about it, you will influence your actions. 
 然而，尽管渴望某样东西和实际实现它之间没有物理上的联系，但不可否认的是，将某样东西作为优先事项并不断思考，会影响你的行动。
 There are two additional ingredients to this: First, you must pick the  right  actions;  second,  your  vision must  lead  to  a  mission--that  is,  actions must be initiated. 
