@@ -1,1 +1,61 @@
-8-b-i-e-租赁还是持有.md
+There is much money to be made in building and in transaction costs from buying  and  selling  houses.70  
+在建筑和买卖房屋过程中可以赚很多钱。
+There  are  significant  pressures,  political  and economic,  to  get  people  involved  in  this  game,  including  the  strange  idea  of including the value of one's home in one's net worth or having taxpayers pay part of your interest while you pay the other part to the bank.71 
+要让人们参与这场游戏，存在着巨大的政治和经济压力，其中包括一个奇怪的想法是，将一个人的房屋价值计入个人净资产，或者让纳税人支付你的一部分利息，而你将另一部分支付给银行。
+
+This  begets  the  crazy  idea  of  a  starter  home  and  the  even  crazier  idea  of buying something bigger as income increases.
+这就产生了一个疯狂的想法，第一套房子，和更疯狂的想法，随着收入的增加，买更大的东西。
+This in turn has led to speculating in one's domicile, using arguments like, "Real estate always goes up; better buy before  the  market  runs  away."  
+这反过来又导致了投机者，他们使用的论据有：“房地产总是上涨；最好在市场消失之前买进。”。
+After  the  recent  crash,  I  don't  think  I  need  to refute  that  anymore.
+在最近的崩溃之后，我认为我不需要再反驳这一点了。
+If  you're  using  a  mortgage  because  houses  always appreciate in value, you're simply speculating in leveraged real estate, something which  is  surprisingly  unregulated  compared  to  speculating  in  stocks  on  the margin, which uses the same principle.
+如果你是因为房屋总是升值而使用抵押贷款，那么你只是在投机杠杆式房地产，原理与使用保证金投机股票相同，但出人意料的，这种行为不受监管。
+In the long run, real estate goes up at the same  rate  as  inflation,  which  is  to  be  expected  for  a  practically  risk-free, nonproductive asset.
+从长期来看，房地产价格的上涨速度与通货膨胀率相同，因为这是一种几乎没有风险的非生产性资产。
+It's not a good idea to consider the house you live in as an "investment"  unless  you  know  more  about  real  estate  than  the  average  person, and in particular, enough to speculate on its direction.
+把你住的房子当作一个“投资”不是一个好主意，除非你对房地产的了解要比一般人多，特别是对其方向的推测。
+
+Including home value in one's net worth is an academic exercise, as this part of  net  worth  is irrelevant  to financial  independence.
+将房产价值纳入个人资产净值是一项学术活动，因为这部分资产净值与财务独立无关。
+What  matters  is  cash  flow (see  Financial  cash  flow  cycles)  and  it's  well-known  that  any  cash  flow  from your home is negative.
+重要的是现金流（参见[财务现金流循环]()），众所周知，你的房子的任何现金流都是负的。
+The only question then is whether it's more negative than renting  something  similar.
+唯一的问题是它是否比租类似的东西更负。
+You  can  calculate  whether  this  is  the  case  by considering the net asset value (NAV) 
+你可以通过考虑资产净值（NAV）来计算是否存在这种情况
+
+NAV = (annual rental income ×(1-upkeep))/(risk-free rate + risk premium).
+资产净值=（年租金收入×（1-维护率））/（无风险利率+风险溢价）。
+
+Here the upkeep ratio is typically 30-40% of the rental income.
+这里的维护率通常为租金收入的30-40%。
+The risk free rate  is  the  going  rate  of  30-year  bonds.
+无风险利率是30年期债券的现行利率。
+The  risk  premium  is  typically  1-2%.
+风险溢价通常为1-2%。
+Calculate the capitalization rate (cap rate) given by 
+计算以下公式给出的资本化率
+
+cap rate = (annual rental income ×(1-upkeep))/(price).
+资本化率=（年租金收入×（1-维护））/（价格）。
+
+The cap rate should be a few percent over the risk-free rate to adjust for the possibility of the house burning down.
+资本化率应比无风险利率高出几个百分点，以调整房屋烧毁的可能性。
+As you can see, it's essentially the same calculation.
+正如你所见，这基本上是相同的计算。
+You  should  understand  these  calculations  and  be  able  to  modify them to your situation.
+你应该理解这些计算，并能够根据您的情况修改它们。
+
+In  terms  of  rent,  landlords  attempt  to  pass  on  mortgage,  maintenance,  and insurance  costs  to  the  renter.
+在租房方面，房东试图将抵押、维修和保险费用转嫁给租客。
+However,  they  can't  charge  more  than  what  the rental market will bear.
+然而，他们的收费不能超过租赁市场的承受能力。
+If you're renting and equivalent housing is selling at its NAV,  the  landlord  is  successfully  passing  all  maintenance,  insurance,  and mortgage costs on to you.
+如果你在租房，而同等住房以其资产净值出售，房东会成功地将所有维护、保险和抵押费用转嫁给你。
+In this case, you'll probably be better off owning since you should be able to maintain your home for less than what you're paying your landlord  to  pay  for  caretakers.
+在这种情况下，你拥有自己的房子可能会更好，因为你维护你的房子要比你支付给你的房东的要少。
+If  it's  selling  above  NAV,  you'll  be  better  off renting.
+如果它的售价高于资产净值，你最好租房。
+If it's selling below NAV, you'll be better off buying--unless you know you're going to move within the next few years.
+如果它的售价低于资产净值，你最好还是买进——除非你知道自己将在几年内搬家。
