@@ -1,1 +1,1 @@
-8-c-i-b-制造你自己的衣服.md
+Clothing  is  now  so  inexpensive,  at  least  in  terms  of  getting  dressed,  that making  your  own  isn't  worthwhile  other  than  for  the  satisfaction  it  brings. Mending and darning are still valuable skills, as is resizing.
