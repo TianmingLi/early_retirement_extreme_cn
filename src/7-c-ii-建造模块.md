@@ -146,7 +146,7 @@ maximum utility.
 Having been raised on products, a key challenge for recovering consumers is
 to  identify  their  actual  core  needs  and  wants. 
 
-因为已经被产品抬高，关键的挑战是让消费者重新定位他们核心的需要和想要。
+因为已经被产品抬高，关键的挑战是让消费者重新定位他们核心的需求和欲望。
 
  The  reason  that  this  can  be
 challenging is that consumers are used to associating needs with products.
