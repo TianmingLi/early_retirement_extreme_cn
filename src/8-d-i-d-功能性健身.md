@@ -12,7 +12,7 @@ The gym, however, is a good place to start before venturing out in the real worl
 It's a place of physiological preparation, where real world strength is built up using movements which are similar in form, strength, intensity,  and  work  capacity to  real  world  movements. 
 这是一个生理上做准备的地方，在这里，通过与真实世界相似形式、力量、强度和能力和真实世界联系起来。
 For  instance,  the  clean and  jerk  corresponds  to  picking  up  an  unconscious  person,  the  vertical  row corresponds to pulling a rope, the squat corresponds to picking up a child, and the power clean corresponds to stacking sacks of corn. 
-例如，挺举对应于抱起一个失去知觉的人，直立划船对应于拉一根绳子，蹲下对应于抱起一个孩子，而高翻对应于堆放一袋袋玉米。
+例如，挺举对应于抱起一个失去知觉的人，直立划船对应于拉一根绳子，蹲起对应于抱起一个孩子，而高翻对应于堆放一袋袋玉米。
 With a solid foundation in functional  fitness,  activities  like  cycling,  walking,  running,  double  digging  a garden, or doing laundry with a plunger will be quite easy in comparison. 
 有了坚实的基础，在功能性健身，活动如骑自行车，步行，跑步，挖花园，或洗衣服将很容易比较。
 It'll be the equivalent of driving a powerful SUV, tow-package, hybrid, and all that. 
