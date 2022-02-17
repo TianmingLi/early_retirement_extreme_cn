@@ -64,7 +64,7 @@ The body will  naturally  want  to  eat  more  when  the  environment  is  cold 
 As a corollary, if  you're  on  reduced  calories,  relative  to  the  ambient  temperature  you'll  feel colder. 
 作为推论，如果你摄入的卡路里相对于环境温度减少，你会感觉更冷。
 Not  adjusting  one's  eating  to  the  season  (see  Eating  like  a  farmer)  will lead  to  difficulties  when  trying  to  cope  with  warm  weather  without  air conditioning or cold weather without heating. 
-在没有空调的温暖天气或没有暖气的寒冷天气中，如果不根据季节调整饮食（参见[吃的像一个农夫]()），将导致困难。
+在没有空调的温暖天气或没有暖气的寒冷天气中，如果不根据季节调整饮食（参见[吃得像一个农夫]()），将导致困难。
 
 An intensive exercise regime--that is, heavy weightlifting (see High intensity interval  training)  or  similar--substantially  increases  the  metabolism  up  to  24 hours afterwards. 
 高强度运动——也就是说，举重（见[高强度间歇训练]()）或类似运动——会显著增加24小时后的新陈代谢。
