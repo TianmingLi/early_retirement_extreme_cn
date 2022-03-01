@@ -1,1 +1,1 @@
-Clothing  is  now  so  inexpensive,  at  least  in  terms  of  getting  dressed,  that making  your  own  isn't  worthwhile  other  than  for  the  satisfaction  it  brings. Mending and darning are still valuable skills, as is resizing.
+现在的服装非常便宜，至少在穿衣方面是如此，除了带来满足感之外，自己做衣服是不值得的。修补和修补仍然是有价值的技能，调整尺寸也是如此。
