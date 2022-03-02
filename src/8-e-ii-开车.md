@@ -1,113 +1,114 @@
 The  thing  that  most  Americans  live  for  and  which  permeates  the  entire culture,  the  car, is an incredibly expensive piece  of machinery, with  barriers  to nonownership that must be dealt with emotionally and physically. 
-
+大多数美国人生活的目的，以及贯穿整个文化的东西，汽车，是一个极其昂贵的机器，存在着不拥有的障碍，必须在情感上和身体上加以克服。
 It's likely that universal  car  ownership  was  one  of  the  larger  mistakes  of  American  society. 
-
+普遍拥有汽车很可能是美国社会的大错误之一。
 When few people have cars, cars means freedom. 
-
+当很少有人拥有汽车时，汽车意味着自由。
 When everybody has cars, cars mean  sitting  in  endless  lines,  emitting  pollution,  and  not  having  a  car  means freedom. 
-
+当每个人都有汽车时，汽车意味着排着长队，排放污染，而没有汽车意味着自由。
 Many people are in such poor shape that they can't get anywhere under their  own  power. 
-
+许多人的身体状况很差，靠自己的力量无法到达任何地方。
 This  is  a  physical  barrier  to  nonownership. 
-
+这是不拥有的物理障碍。
 However,  anyone can  walk  efficiently  with  practice. 
-
+然而，任何人都可以通过练习有效地行走。
 I  still  remember  getting  passed  by  several 60+-year-olds  during  a  two  day  double-marathon  walk--I  had  no  training;  they had plenty--happily marching  along,  commenting  on the  pretty  flowers  while  I was  dragging  my  18-year-old  sedentary  feet  along,  only  concentrating  on  the next painful step. 
-
+我还记得在两天的双程马拉松行走中，有几个60多岁的人从我身边经过——我没有接受任何训练；他们有很多——快乐地行进着，评论着美丽的花朵，而我拖着18岁久坐不动的双脚，只专注于痛苦的下一步。
 Many believe that not having a car is unsafe, despite the fact that more people die in automobile accidents than are killed by guns every year. 
-
+许多人认为没有车是不安全的，尽管每年死于车祸的人比死于枪支的人还多。
 This is a mental barrier to car nonownership. 
-
+这是不拥有汽车的心理障碍。
 
 Next  to  housing  cost,  transportation  costs  are  American's  second  biggest source of expenses. 
-
+除了住房成本，交通成本是美国人的第二大支出来源。
 Car ownership has some or all of the following costs: 
-
+拥有汽车会产生以下部分或全部成本：
 
 1. Depreciation,  leasing,  or  debt  servicing  costs. 
-
+1.折旧、租赁或偿债成本。
 Leasing  or  debt  servicing costs are relevant if you don't own your car outright. 
-
+如果你没有完全拥有自己的汽车，租赁或偿债成本是相关的。
 If you own your car outright  and  you  intend  to  replace  it,  depreciation  costs  become  relevant. 
-
+如果你完全拥有自己的汽车，并打算更换它，折旧成本就变得很重要。
 For instance, $12,000 for a car that lasts 10 years costs $100 a month. 
-
+例如，一辆能使用10年的汽车12000美元，每月100美元。
 That requires  $40,100  in  extra  savings  (see  this  equation  in  Investing  and reasonable return rates). 
-
+这需要额外省下40100美元（见[投资和合理回报率]()等式）。
 2. Gasoline  and  insurance. 
-
+2.汽油和保险。
 These  are  unavoidable  if  you  want  to  drive  your car anywhere, except perhaps downhill on backroads. 
-
+如果你想把车开到任何地方，这些都是不可避免的，除了在偏僻的道路的下坡。
 3. Opportunity and health costs from sitting behind the wheel when you could be exercising. 
-
+3.当你可以锻炼时，坐在方向盘后面的机会和健康成本。
 The average American spends 20% of his income on transportation. 
-
+美国人平均把收入的20%花在交通上。
 That is 0.20×12=2.4 months a year of work. 
-
+也就是说，每年工作0.20×12=2.4个月。
 That is a lot of time that could be used for something better. 
-
+这是很多可以用来做更好事情的时间。
 Assuming he also spends an hour daily in his car commuting, then  that  is  250  hours  a  year,  assuming  250  working  days. 
-
+假设他每天花一个小时在车上通勤，那么假设250个工作日，一年就是250个小时。
 That  is  1/8  of  the working day on top of the working day or 1/8 of the working month on top of the  working  month. 
-
+即工作日增加1/8，或工作月增加1/8。
 Hence,  that  is  12/8  =  1.5  working  months  in  addition, meaning  we  end  up  working  four  months  a  year  driving  and  earning transportation funds. 
-
+因此，额外增加12/8=1.5个工作月，这意味着我们一年要四个月开车工作赚取交通费。
 
 Hence if it would otherwise take you six years of work to retire, if you own a car you will only be able to save (12-4)/12 as much, so your time until retirement would  extend  to  12/(12-4)×6=9  years,  or  three  additional  years  simply  due  to driving. 
-
+因此，如果您需要六年的工作才能退休，如果您拥有汽车，您将只能节省 (12-4)/12 一样多的钱，因此您的退休时间将延长到 12/(12-4 )×6=9 年，因开车而增加 3 年。
 If you calculate 12 years until retirement, then you're really looking at 18, or six more years. 
-
+如果你计算离退休还有 12 年，那么你真正在看的是18 年，再多 6 年。
 
 Giving up the car makes sense. 
-
+放弃汽车是有道理的。
 First you'll save money on exercise. 
-
+首先，你可以在锻炼上省钱。
 Driving your  car  over  to  a  gym  to  run  on  a  treadmill,  then  driving  back  again  is inefficient at best. 
-
+把车开到健身房在跑步机上跑步，然后再开车回去，充其量是效率低下的。
 If walked or biked to and from work, not only would you save the money otherwise spent on a car, you'd also save the money normally spent on a gym membership. 
-
+如果步行或骑自行车上下班，你不仅可以省下花在汽车上的钱，还可以省下通常花在健身房会员上的钱。
 Many people past college age completely ignore physical fitness. 
-
+许多超过大学年龄的人完全忽视了身体健康。
 It  seems  like  a  degree  and  a  career  also  serve  as  a  subscription  to physical decline. 
-
+学位和职业似乎也是身体衰退的原因。
 If you're going to retire early, it will be sad to sit on the couch all day, being shut out of physical activities due to a belief that weakness comes from age. 
-
+如果你打算提前退休，整天坐在沙发上，因为相信虚弱来自年龄而被排除在体育活动之外，这将是令人伤心的。
 
 I'd  consider  it  normal  to--without  preparation  or  prior  training  other  than  a daily  commute--be  able  to  run  five  miles,  walk  25  miles,  or  bike  50  miles. 
-
+我认为这是正常的-没有准备或事先训练以外的日常通勤-能够跑8公里，走40公里，或骑自行车80公里。
 Perhaps  these  numbers  sound  insane. 
-
+也许这些数字听起来很疯狂。
 This  suggests  a  large  chasm  between  the frame of mind of someone who gets around using gasoline, and a walker, runner, or rider who gets around under his own power. 
-
+这表明，一个使用汽油四处走动的人与一个靠自己的力量四处走动的步行者、跑步者或骑手之间存在着巨大的心理鸿沟。
 
 Walkers easily travel three miles by foot. 
-
+步行者很容易步行五公里。
 Drivers get in their cars to get from one side of the parking lot to the other. 
-
+司机们上车从停车场的一边到另一边。
 Neither quite understand why the other is so crazy, when it's so easy to do things their way. 
-
+两人都不太明白为什么对方如此疯狂，因为他们很容易按照自己的方式做事。
 
 Not having access to an automobile means rediscovering the art of planning. 
-
+没有汽车意味着重新发现规划的艺术。
 Do  your  shopping  in  fewer  trips,  or  alternatively  plan  to  live  closer  to  the market. 
-
+少去购物，或者计划住得离市场更近。
 I  used  to  shop  every  other  day  on  the  way  home  from  work,  which meant  I  could  buy  food  with  fewer  preservatives  and  chemical  additives. 
-
+我过去每隔一天在下班回家的路上购物，这意味着我可以买到更少防腐剂和化学添加剂的食物。
 Interestingly enough, it seems that as long as you know someone who is going the same way, they are usually happy to offer you a ride. 
-
+有趣的是，似乎只要你认识一个和你走同一条路的人，他们通常都很乐意载你一程。
 Don't forget to extend favors in the other direction, like offering to pay for gas. 
-
+别忘了向另一个方向提供帮助，比如提供汽油费。
 
 "But what about the children? Surely they need to be ferried around." They need to live close enough to their school that they can ride a bike or walk or take the bus (consider this in How to find shelter). 
-
+“但是孩子们呢？他们肯定需要被接送。”他们需要住在离学校足够近的地方，这样他们就可以骑自行车、走路或坐公交车了（在[如何寻找庇护所]()中考虑这一点）。
 Good habits are best started early. 
-
+好习惯最好早点开始。
 Consider a trailer bike. 
-
+考虑一辆自行车拖车 。
 Consider walking them to school, or at least to the bus. 
-
+考虑步行到学校，或者至少坐公共汽车。
 When I was a kid I lived two miles from my school, and my mom walked me back  and  forth  for  the  first  year. 
-
+当我还是个孩子的时候，我住在离学校3公里的地方，第一年我妈妈陪我来回走。
 When  you're  free  from  your  job,  you'll  have time  for  this--it's  a  meaningful  thing  to  do. 
-
+当你从工作中解脱出来时，你会有时间做这件事——这是一件有意义的事情。
 It's,  in  my  opinion,  better  than working for more years so you can drive your kids back and forth in a van.
+在我看来，这比多工作几年好，这样你就可以开着面包车带着孩子来回跑了。
